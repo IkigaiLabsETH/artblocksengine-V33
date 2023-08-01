@@ -35,7 +35,7 @@ const Details = ({}: DetailsProps) => (
             <input
                 className={styles.input}
                 type="text"
-                value="https://crypter.livethelife.tv/nft/escape"
+                value="https://ikigai.livethelife.tv/nft/escape"
             />
             <button className={styles.copy}>
                 <Icon name="copy" />

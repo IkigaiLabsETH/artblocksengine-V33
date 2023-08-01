@@ -21,7 +21,7 @@ const HelpDetailPage = () => {
             <Main
                 classTitle="h1"
                 image="/images/help-detail.jpg"
-                title="Guide to collection NFT artworks on Crypter"
+                title="Guide to collection NFT artworks on ikigai"
                 breadcrumbs={breadcrumbs}
             />
             <Detail detail={detail} />

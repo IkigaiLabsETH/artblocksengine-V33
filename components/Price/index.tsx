@@ -9,7 +9,7 @@ type PriceProps = {
     value?: any;
     setValue?: any;
     placeholder?: any;
-    crypterFee?: string;
+    ikigaiFee?: string;
     percent?: string;
     totalReceive?: string;
     onClick?: () => void;
@@ -23,7 +23,7 @@ const Price = ({
     value,
     setValue,
     placeholder,
-    crypterFee,
+    ikigaiFee,
     percent,
     totalReceive,
     onClick,
@@ -53,10 +53,10 @@ const Price = ({
                         <div className={cn("h3", styles.currency)}>ETH</div>
                     </div>
                 )}
-                {crypterFee && (
+                {ikigaiFee && (
                     <div className={styles.line}>
-                        <div className={styles.label}>Crypter fee</div>
-                        <div className={styles.value}>{crypterFee}</div>
+                        <div className={styles.label}>ikigai fee</div>
+                        <div className={styles.value}>{ikigaiFee}</div>
                     </div>
                 )}
                 {totalReceive && (

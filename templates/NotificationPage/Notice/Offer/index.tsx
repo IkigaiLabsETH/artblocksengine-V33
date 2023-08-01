@@ -32,7 +32,7 @@ const Offer = ({}: OfferProps) => (
                     <div className={cn("h3", styles.price)}>ETH</div>
                 </div>
                 <div className={styles.item}>
-                    <div className={styles.label}>Crypter fee</div>
+                    <div className={styles.label}>ikigai fee</div>
                     <div className={styles.value}>0.0055 ETH</div>
                 </div>
                 <div className={styles.item}>

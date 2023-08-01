@@ -28,7 +28,7 @@ const CreatPage = () => {
                 left={
                     <>
                         <div className={cn("h1", styles.title)}>
-                            Create on <br></br>Crypter.
+                            Create on <br></br>ikigai.
                         </div>
                         <Arrow className={styles.arrow} />
                         <div className={styles.content}>
@@ -78,7 +78,7 @@ const CreatPage = () => {
                 <div className={styles.foot}>
                     <Link href="/">
                         <a className={styles.link}>
-                            Learn about Collection on Crypter
+                            Learn about Collection on ikigai
                         </a>
                     </Link>
                 </div>

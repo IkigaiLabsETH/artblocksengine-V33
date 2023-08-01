@@ -23,7 +23,7 @@ const Message = ({ onContinue }: MessageProps) => (
             Sign the message <br></br>in your wallet to continue
         </div>
         <div className={styles.info}>
-            Crypter uses this signature to verify that you’re the owner of this
+            ikigai uses this signature to verify that you’re the owner of this
             Ethereum address.
         </div>
         <div className={styles.btns}>

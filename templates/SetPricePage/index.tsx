@@ -94,7 +94,7 @@ const MintNFTPage = () => {
                             title="Buy now price"
                             value={buyValue}
                             setValue={setBuyValue}
-                            crypterFee="0.00 ETH"
+                            ikigaiFee="0.00 ETH"
                             percent="2%"
                             totalReceive="0.00 ETH"
                             buttonText="set price"
@@ -124,7 +124,7 @@ const MintNFTPage = () => {
                             title="Reserve price"
                             value={reserveValue}
                             setValue={setReserveValue}
-                            crypterFee="0.00 ETH"
+                            ikigaiFee="0.00 ETH"
                             percent="2%"
                             totalReceive="0.00 ETH"
                             buttonText="set price"

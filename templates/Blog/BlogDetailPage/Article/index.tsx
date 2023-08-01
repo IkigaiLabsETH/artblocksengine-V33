@@ -99,8 +99,8 @@ const Article = ({}: ArticleProps) => (
                 doloribus. Non non laboriosam ut assumenda vel aut sequi.
             </p>
             <ul>
-                <li>Connect your wallet to Crypter</li>
-                <li>Guide to collection NFT artworks on Crypter</li>
+                <li>Connect your wallet to ikigai</li>
+                <li>Guide to collection NFT artworks on ikigai</li>
                 <li>Marketplace balance</li>
                 <li>Marketplace fees</li>
                 <li>What is offer price?</li>

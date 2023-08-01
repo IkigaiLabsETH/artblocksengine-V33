@@ -12,8 +12,8 @@ const BlogDetailPage = () => {
             <Main
                 classTitle="h1"
                 image="/images/blog-detail.jpg"
-                title="8 things you didn't know you could do on Crypter"
-                info="Crypter NFT marketplace blog"
+                title="8 things you didn't know you could do on ikigai"
+                info="ikigai NFT marketplace blog"
             />
             <Article />
             <BlogList items={blogSlider} />

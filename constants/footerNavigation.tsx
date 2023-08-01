@@ -1,6 +1,6 @@
 export const footerNavigation = [
     {
-        title: "CRYPTER.",
+        title: "ikigai.",
         menu: [
             {
                 title: "Discover",

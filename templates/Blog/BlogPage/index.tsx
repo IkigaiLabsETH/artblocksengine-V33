@@ -11,8 +11,8 @@ const HelpDetailPage = () => {
             <Main
                 classTitle="hero"
                 image="/images/blog.jpg"
-                title="Crypter Blog"
-                info="Crypter NFT marketplace blog"
+                title="ikigai Blog"
+                info="ikigai NFT marketplace blog"
             />
             <Articles items={blog} />
             <Newsletter />

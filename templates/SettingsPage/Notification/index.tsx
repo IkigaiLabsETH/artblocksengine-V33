@@ -31,7 +31,7 @@ const Notification = ({}: NotificationProps) => {
             setValue: setOffer,
         },
         {
-            title: "Crypter news",
+            title: "ikigai news",
             content: "Placeat quo qui cum ea nisi optio.",
             value: news,
             setValue: setNews,

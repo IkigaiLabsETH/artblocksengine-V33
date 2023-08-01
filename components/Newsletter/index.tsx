@@ -16,7 +16,7 @@ const Newsletter = ({}: NewsletterProps) => {
                 <div className={cn("h2", styles.title)}>Download</div>
                 <div className={styles.content}>
                     In web3, artists are taking back ownership and control over
-                    their creativity. All collections on Crypter are
+                    their creativity. All collections on ikigai are
                     creator-owned smart contracts that will stand the test of
                     time.
                 </div>

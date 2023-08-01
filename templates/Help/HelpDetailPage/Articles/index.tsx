@@ -5,11 +5,11 @@ import Icon from "@/components/Icon";
 
 const links = [
     {
-        title: "Connect your wallet to Crypter",
+        title: "Connect your wallet to ikigai",
         url: "/help/detail",
     },
     {
-        title: "Guide to collection NFT artworks on Crypter",
+        title: "Guide to collection NFT artworks on ikigai",
         url: "/help/detail",
     },
     {

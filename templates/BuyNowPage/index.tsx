@@ -75,7 +75,7 @@ const BuyNowPage = () => {
                             </>
                         }
                         linkUrl="/article"
-                        linkTitle="Learn how to buy on Crypter"
+                        linkTitle="Learn how to buy on ikigai"
                     />
                     <Price
                         title="Total price"

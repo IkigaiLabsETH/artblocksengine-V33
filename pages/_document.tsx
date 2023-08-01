@@ -18,10 +18,10 @@ class MyDocument extends Document {
                 <Head>
                     <meta
                         content="Epic NFT Marketplace UI Design Kit"
-                        name="Crypter v.2 - NFT Marketplace UI Kit"
+                        name="ikigai v.2 - NFT Marketplace UI Kit"
                     />
                     <meta
-                        content="Crypter v.2 - NFT Marketplace UI Kit"
+                        content="ikigai v.2 - NFT Marketplace UI Kit"
                         property="og:title"
                     />
                     <meta

@@ -20,7 +20,7 @@ const HelpCategoryPage = () => {
                     <div className={styles.wrap}>
                         <div className={styles.head}>
                             <div className={cn("h1", styles.title)}>
-                                Gettings started on Crypter
+                                Gettings started on ikigai
                             </div>
                             <Link href="/help">
                                 <a className={styles.back}>

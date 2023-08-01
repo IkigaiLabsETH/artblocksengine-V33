@@ -7,7 +7,7 @@ export const creativity = [
                 </h2>
                 <p>
                     In web3, artists are taking back ownership and control over
-                    their creativity. All collections on Crypter are
+                    their creativity. All collections on ikigai are
                     creator-owned smart contracts that will stand the test of
                     time.
                 </p>
@@ -16,7 +16,7 @@ export const creativity = [
                         You’ll earn a 10% royalty for all secondary market
                         sales.
                     </li>
-                    <li>Creativity is valuable on Crypter</li>
+                    <li>Creativity is valuable on ikigai</li>
                 </ul>
             </>
         ),
