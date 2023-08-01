@@ -8,7 +8,7 @@ import Details from "./Details";
 const socials = [
     {
         icon: "twitter",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/livethelife.tv",
     },
     {
         icon: "facebook",
@@ -16,11 +16,11 @@ const socials = [
     },
     {
         icon: "linkedin",
-        url: "https://www.linkedin.com/company/ui8",
+        url: "https://www.linkedin.com/company/",
     },
     {
         icon: "instagram",
-        url: "https://www.instagram.com/ui8net/",
+        url: "https://www.instagram.com/l/",
     },
 ];
 

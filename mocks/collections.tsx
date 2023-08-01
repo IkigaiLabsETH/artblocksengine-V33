@@ -17,7 +17,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "UI8 all-access",
+        title: "all-access",
         login: "randomdash",
         price: "1.2 ETH",
         avatar: "/images/artists/artist-2.jpg",

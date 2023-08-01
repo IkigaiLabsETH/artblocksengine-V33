@@ -9,9 +9,9 @@ const Information = ({}: InformationProps) => {
     const [name, setName] = useState<string>("Dash");
     const [bio, setBio] = useState<string>("");
     const [site, setSite] = useState<string>("https://livethelife.tv");
-    const [twitter, setTwitter] = useState<string>("https://twitter.com/ui8");
+    const [twitter, setTwitter] = useState<string>("https://twitter.com/livethelife.tv");
     const [facebook, setFacebook] = useState<string>(
-        "https://facebook.com/ui8"
+        "https://facebook.com/LiveTheLife"
     );
 
     return (
