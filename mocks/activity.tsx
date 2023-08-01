@@ -5,7 +5,7 @@ export const activity = [
         fromLogin: "kohaku",
         toAvatar: "/images/artists/artist-2.jpg",
         toLogin: "randomdash",
-        price: "1.0 ETH",
+        price: "0.21 ETH",
     },
     {
         nft: "/images/nfts/image-1.jpg",
@@ -21,7 +21,7 @@ export const activity = [
         fromLogin: "kohaku",
         toAvatar: "/images/artists/artist-6.jpg",
         toLogin: "randomdash",
-        price: "12.44 ETH",
+        price: "12.69ETH",
     },
     {
         nft: "/images/nfts/image-4.jpg",
@@ -29,7 +29,7 @@ export const activity = [
         fromLogin: "tranmautritam",
         toAvatar: "/images/artists/artist-8.jpg",
         toLogin: "moyoshiro",
-        price: "12.1 ETH",
+        price: "4.20 ETH",
     },
     {
         nft: "/images/nfts/image-5.jpg",
