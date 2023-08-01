@@ -25,7 +25,7 @@ class MyDocument extends Document {
                         property="og:title"
                     />
                     <meta
-                        content="Epic NFT Marketplace UI Design Kit"
+                        content="NFT Marketplace"
                         property="og:description"
                     />
                     <meta
@@ -34,18 +34,18 @@ class MyDocument extends Document {
                     />
                     <meta
                         property="og:url"
-                        content="https://ui8.net/ui8/products/crypter-v2-nft-marketplace-ui-kit"
+                        content="https://livethelife.tv"
                     />
                     <meta
                         property="og:site_name"
-                        content="Crypter v.2 - NFT Marketplace UI Kit"
+                        content="NFT Marketplace"
                     />
                     <meta
-                        content="Crypter v.2 - NFT Marketplace UI Kit"
+                        content="NFT Marketplace"
                         property="twitter:title"
                     />
                     <meta
-                        content="Epic NFT Marketplace UI Design Kit"
+                        content="NFT Marketplace"
                         property="twitter:description"
                     />
                     <meta
@@ -54,8 +54,8 @@ class MyDocument extends Document {
                     />
                     <meta property="og:type" content="Article" />
                     <meta content="summary" name="twitter:card" />
-                    <meta name="twitter:site" content="@ui8" />
-                    <meta name="twitter:creator" content="@ui8" />
+                    <meta name="twitter:site" content="@livethelifetv" />
+                    <meta name="twitter:creator" content="@livethelifetv" />
                     <meta property="fb:admins" content="132951670226590" />
                     <meta
                         name="viewport"

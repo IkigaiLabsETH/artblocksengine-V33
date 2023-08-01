@@ -35,7 +35,7 @@ const MintNFTPage = () => {
                             possibilities. Join the millions of creators,
                             collectors, and curators who are on this journey.
                         </p>
-                        <p>Official website: ui8.net</p>
+                        <p>Official website: livethelife.tv</p>
                     </>
                 }
             >

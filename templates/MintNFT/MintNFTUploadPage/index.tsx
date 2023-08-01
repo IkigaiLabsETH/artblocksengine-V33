@@ -7,7 +7,7 @@ import Upload from "./Upload";
 const MintNFTPage = () => {
     const [title, setTitle] = useState<string>("The Explorer");
     const [description, setDescription] = useState<string>(
-        "We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey. Official website: ui8.net"
+        "We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey. Official website: livethelife.tv"
     );
 
     return (

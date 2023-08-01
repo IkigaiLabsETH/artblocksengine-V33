@@ -19,7 +19,7 @@ const Caption = ({ title, date }: CaptionProps) => (
                 </button>
                 <a
                     className={cn("button-circle button-medium", styles.button)}
-                    href="https://ui8.net/"
+                    href="https://livethelife.tv/"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

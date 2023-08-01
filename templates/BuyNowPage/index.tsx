@@ -21,19 +21,19 @@ const statistics = [
 
 const links = [
     {
-        title: "View on Etherscane",
+        title: "View on Etherscan",
         icon: "country",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View metadata",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View on IPFS",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.t/",
     },
 ];
 
@@ -46,8 +46,8 @@ const provenance = [
                 Minted by <span>@randomdash</span>
             </>
         ),
-        date: "Aug 18, 2022 at 18:80",
-        url: "https://ui8.net/",
+        date: "Aug 18, 2023 at 18:80",
+        url: "https://livethelife.tv/",
     },
 ];
 
@@ -58,7 +58,7 @@ const BuyNowPage = () => {
                 image="/images/main-pic-1.jpg"
                 captionHide
                 title="Escape"
-                date="Minted on Aug 18, 2022"
+                date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
                 addTags

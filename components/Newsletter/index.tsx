@@ -23,7 +23,7 @@ const Newsletter = ({}: NewsletterProps) => {
                 <div className={styles.btns}>
                     <a
                         className={cn("button-large", styles.button)}
-                        href="https://ui8.net/"
+                        href="https://livethelife.tv/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -35,7 +35,7 @@ const Newsletter = ({}: NewsletterProps) => {
                             "button-white button-large",
                             styles.button
                         )}
-                        href="https://ui8.net/"
+                        href="https://livethelife.tv/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -47,7 +47,7 @@ const Newsletter = ({}: NewsletterProps) => {
             <div className={styles.col}>
                 <div className={cn("h2", styles.title)}>Newsletter</div>
                 <div className={styles.info}>
-                    Get the latest Crypter updates
+                    Get the latest Ikigai Labs XYZ updates
                 </div>
                 <form
                     className={styles.form}

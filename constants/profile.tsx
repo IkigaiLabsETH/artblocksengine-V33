@@ -1,31 +1,31 @@
 export const links = [
     {
-        title: "ui8.net",
+        title: "LTL",
         icon: "country",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
-        title: "mirror.xyz/ui8",
+        title: "mirror.xyz/livethelifetv",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
 ];
 
 export const socials = [
     {
         icon: "instagram",
-        url: "https://www.instagram.com/ui8net/",
+        url: "https://www.instagram.com/livethelife.tv/",
     },
     {
         icon: "twitter",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/livethelifetv",
     },
     {
         icon: "linkedin",
-        url: "https://www.linkedin.com/company/ui8",
+        url: "https://www.linkedin.com/company/u",
     },
     {
         icon: "facebook",
-        url: "https://www.facebook.com/ui8.net/",
+        url: "https://www.facebook.com/LiveTheLife/",
     },
 ];

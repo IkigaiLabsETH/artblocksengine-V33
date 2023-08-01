@@ -50,7 +50,7 @@ const Footer = ({}: FooterProps) => (
         </div>
         <div className={styles.foot}>
             <div className={styles.copyright}>
-                Copyright © 2022 UI8 LLC. All rights reserved
+                Copyright © 2024 Ikigai Labs XYZ. All rights reserved
             </div>
             <div className={styles.cookies}>
                 We use cookies for better service.

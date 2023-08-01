@@ -24,17 +24,17 @@ const links = [
     {
         title: "View on Etherscane",
         icon: "country",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View metadata",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View on IPFS",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
 ];
 
@@ -48,7 +48,7 @@ const provenance = [
             </>
         ),
         date: "Aug 18, 2022 at 18:80",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
 ];
 

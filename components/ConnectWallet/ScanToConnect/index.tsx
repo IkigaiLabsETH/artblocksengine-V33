@@ -17,7 +17,7 @@ const ScanToConnect = ({}: ScanToConnectProps) => (
             <Image src="/images/scan.png" width={256} height={256} alt="Code" />
         </div>
         <div className={styles.foot}>
-            <div className={styles.info}>Powered by UI8</div>
+            <div className={styles.info}>Powered by Ikigai Labs XYZ</div>
             <button className={styles.question}>
                 Don’t have a wallet app?
             </button>

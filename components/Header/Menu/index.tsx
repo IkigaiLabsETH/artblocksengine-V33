@@ -10,19 +10,19 @@ import Search from "../Search";
 const socials = [
     {
         icon: "instagram-fat",
-        url: "https://www.instagram.com/ui8net/",
+        url: "https://www.instagram.com/livethelife.tv/",
     },
     {
         icon: "twitter-fat",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/livethelifetv",
     },
     {
         icon: "facebook-fat",
-        url: "https://www.facebook.com/ui8.net/",
+        url: "https://www.facebook.com/LiveTheLife/",
     },
     {
         icon: "linkedin-fat",
-        url: "https://www.linkedin.com/company/ui8",
+        url: "https://www.linkedin.com/company/",
     },
 ];
 
@@ -40,11 +40,11 @@ const menu = [
         url: "/feed",
     },
     {
-        title: "Help center",
+        title: "AMA",
         url: "/help",
     },
     {
-        title: "Blog",
+        title: "Edito",
         url: "/blog",
     },
 ];
@@ -117,7 +117,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                         <div className={styles.btns}>
                             <a
                                 className={cn("button", styles.button)}
-                                href="https://ui8.net/"
+                                href="https://livethelife.tv/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -126,7 +126,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                             </a>
                             <a
                                 className={cn("button-white", styles.button)}
-                                href="https://ui8.net/"
+                                href="https://livethelife.tv/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >

@@ -12,7 +12,7 @@ const socials = [
     },
     {
         icon: "facebook",
-        url: "https://www.facebook.com/ui8.net/",
+        url: "https://www.facebook.com/livethelife.tv/",
     },
     {
         icon: "linkedin",

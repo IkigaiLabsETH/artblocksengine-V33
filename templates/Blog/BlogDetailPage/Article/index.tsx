@@ -7,17 +7,17 @@ const socials = [
     {
         title: "Instagram",
         icon: "instagram",
-        url: "https://www.instagram.com/ui8net/",
+        url: "https://www.instagram.com/livethelife.tv/",
     },
     {
         title: "Twitter",
         icon: "twitter",
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com/livethelifetv",
     },
     {
         title: "Facebook",
         icon: "facebook",
-        url: "https://www.facebook.com/ui8.net/",
+        url: "https://www.facebook.com/LiveTheLife/",
     },
 ];
 
@@ -26,7 +26,7 @@ type ArticleProps = {};
 const Article = ({}: ArticleProps) => (
     <div className={styles.article}>
         <div className={cn("content", styles.content)}>
-            <h3>Introducing CrypterOS the operating system for web3.</h3>
+            <h3>Introducing Ikigai Labs the operating system for web3.</h3>
             <h5>
                 Web3 is the next evolution of the internet built on open
                 infrastructure where information, code, and objects are free to
@@ -63,7 +63,7 @@ const Article = ({}: ArticleProps) => (
             />
         </div>
         <div className={cn("content", styles.content)}>
-            <h3>Introducing CrypterOS the operating system for web3.</h3>
+            <h3>Introducing the operating system for web3.</h3>
             <h5>
                 Web3 is the next evolution of the internet built on open
                 infrastructure where information, code, and objects are free to

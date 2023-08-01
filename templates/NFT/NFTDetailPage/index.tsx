@@ -22,17 +22,17 @@ const links = [
     {
         title: "View on Etherscane",
         icon: "country",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View metadata",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         title: "View on IPFS",
         icon: "link",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
 ];
 
@@ -47,7 +47,7 @@ const provenance = [
         ),
         price: "5.00 ETH",
         date: "Aug 18, 2022 at 18:80",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         avatar: "/images/avatar.jpg",
@@ -59,7 +59,7 @@ const provenance = [
         ),
         price: "5.00 ETH",
         date: "Aug 18, 2022 at 18:80",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
     {
         avatar: "/images/avatar.jpg",
@@ -71,7 +71,7 @@ const provenance = [
         ),
         price: "5.00 ETH",
         date: "Aug 18, 2022 at 18:80",
-        url: "https://ui8.net/",
+        url: "https://livethelife.tv/",
     },
 ];
 
@@ -118,7 +118,7 @@ const MintNFTPage = () => {
                             Auction settled by <span>@Kohaku</span>
                         </>
                     ),
-                    linkUrl: "https://ui8.net/",
+                    linkUrl: "https://livethelife.tv/",
                 }}
                 provenance={provenance}
                 content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
