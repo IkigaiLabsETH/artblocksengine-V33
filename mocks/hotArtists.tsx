@@ -6,7 +6,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "kohaku",
+        login: "Aloha",
         total: "24.35 ETH",
         avatar: "/images/artists/artist-2.jpg",
         url: "/profile",

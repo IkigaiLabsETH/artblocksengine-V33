@@ -37,9 +37,9 @@ const Details = ({
             <div className={styles.head}>
                 <div className={styles.flex}>
                     <div className={styles.box}>
-                        <div className={cn("h2", styles.user)}>Kohaku</div>
+                        <div className={cn("h2", styles.user)}>Aloha</div>
                         <div className={styles.line}>
-                            <div className={styles.login}>@kohaku</div>
+                            <div className={styles.login}>@Aloha</div>
                             <div className={styles.code}>
                                 0x1e86…533B
                                 <button className={styles.copy}>

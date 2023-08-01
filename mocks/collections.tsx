@@ -371,7 +371,7 @@ export const activityCollections = [
     },
     {
         title: "Cute Planet",
-        login: "kohaku",
+        login: "Aloha",
         price: "4.9 ETH",
         avatar: "/images/artists/artist-3.jpg",
         images: [

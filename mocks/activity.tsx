@@ -2,7 +2,7 @@ export const activity = [
     {
         nft: "/images/nfts/image-6.jpg",
         fromAvatar: "/images/artists/artist-1.jpg",
-        fromLogin: "kohaku",
+        fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-2.jpg",
         toLogin: "randomdash",
         price: "0.21 ETH",
@@ -18,7 +18,7 @@ export const activity = [
     {
         nft: "/images/nfts/image-3.jpg",
         fromAvatar: "/images/artists/artist-5.jpg",
-        fromLogin: "kohaku",
+        fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-6.jpg",
         toLogin: "randomdash",
         price: "12.69ETH",
@@ -34,7 +34,7 @@ export const activity = [
     {
         nft: "/images/nfts/image-5.jpg",
         fromAvatar: "/images/artists/artist-1.jpg",
-        fromLogin: "kohaku",
+        fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-2.jpg",
         toLogin: "randomdash",
         price: "3.33 ETH",

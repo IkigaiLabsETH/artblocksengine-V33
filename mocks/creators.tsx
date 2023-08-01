@@ -7,8 +7,8 @@ export const creators = [
         url: "/profile",
     },
     {
-        name: "Kohaku Tora",
-        login: "kohaku",
+        name: "Aloha Tora",
+        login: "Aloha",
         sale: "4.32 ETH",
         avatar: "/images/artists/artist-2.jpg",
         url: "/profile",
@@ -21,8 +21,8 @@ export const creators = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         sale: "0.94 ETH",
         avatar: "/images/artists/artist-4.jpg",
         url: "/profile",

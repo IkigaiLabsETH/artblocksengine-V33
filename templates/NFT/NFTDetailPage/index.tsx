@@ -115,7 +115,7 @@ const MintNFTPage = () => {
 
                     linkTitle: (
                         <>
-                            Auction settled by <span>@Kohaku</span>
+                            Auction settled by <span>@Aloha</span>
                         </>
                     ),
                     linkUrl: "https://livethelife.tv/",

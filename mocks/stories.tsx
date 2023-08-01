@@ -29,8 +29,8 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Kohaku",
-        login: "kohaku",
+        author: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-4.jpg",
         gallery: [
             "/images/story-4.jpg",
@@ -65,8 +65,8 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Kohaku",
-        login: "kohaku",
+        author: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-2.jpg",
         gallery: [
             "/images/story-2.jpg",
@@ -77,8 +77,8 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Kohaku",
-        login: "kohaku",
+        author: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-2.jpg",
         gallery: [
             "/images/story-2.jpg",

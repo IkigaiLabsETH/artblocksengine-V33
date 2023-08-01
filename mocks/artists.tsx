@@ -6,7 +6,7 @@ export const artists = [
         follow: false,
     },
     {
-        login: "kohaku",
+        login: "Aloha",
         avatar: "/images/artists/artist-6.jpg",
         price: "12.29 ETH",
         follow: false,
@@ -49,7 +49,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
+        name: "Aloha",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",
@@ -89,7 +89,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
+        name: "Aloha",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",
@@ -129,7 +129,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
+        name: "Aloha",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",

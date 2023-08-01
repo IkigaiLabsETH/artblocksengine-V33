@@ -1,7 +1,7 @@
 export const following = [
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 NFTs",
         follow: true,
@@ -27,8 +27,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-4.jpg",
         crypto: "60 NFTs",
         follow: true,
@@ -36,8 +36,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-5.jpg",
         crypto: "4 NFTs",
         follow: true,
@@ -54,8 +54,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 NFTs",
         follow: true,
@@ -72,8 +72,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-4.jpg",
         crypto: "60 NFTs",
         follow: true,
@@ -81,8 +81,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-5.jpg",
         crypto: "4 NFTs",
         follow: true,
@@ -99,8 +99,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 NFTs",
         follow: true,
@@ -117,8 +117,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-4.jpg",
         crypto: "60 NFTs",
         follow: true,
@@ -126,8 +126,8 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Kohaku",
-        login: "kohaku",
+        name: "Aloha",
+        login: "Aloha",
         avatar: "/images/artists/artist-5.jpg",
         crypto: "4 NFTs",
         follow: true,
