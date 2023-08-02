@@ -7,7 +7,7 @@ export const creators = [
         url: "/profile",
     },
     {
-        name: "Aloha Tora",
+        name: "Aloha",
         login: "Aloha",
         sale: "4.32 ETH",
         avatar: "/images/artists/artist-2.jpg",
