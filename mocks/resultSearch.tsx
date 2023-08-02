@@ -20,13 +20,13 @@ export const resultSearch = [
         title: "collection",
         items: [
             {
-                title: "The Currency",
+                title: "Flow Fields",
                 login: "livethelifetv",
                 image: "/images/result-pic-3.jpg",
                 url: "/collection",
             },
             {
-                title: "The Currency",
+                title: "Flow Fields",
                 login: "livethelifetv",
                 image: "/images/result-pic-1.jpg",
                 url: "/collection",

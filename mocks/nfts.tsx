@@ -15,7 +15,7 @@ export const tabsTime = [
 
 export const nfts = [
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-1.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-6.jpg",
@@ -27,7 +27,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-2.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-5.jpg",
@@ -39,7 +39,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-3.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
@@ -51,7 +51,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-4.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",
@@ -63,7 +63,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-5.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-1.jpg",
@@ -75,7 +75,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-6.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-8.jpg",
@@ -87,7 +87,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-7.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
@@ -99,7 +99,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-8.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",
@@ -111,7 +111,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-9.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-6.jpg",
@@ -123,7 +123,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-10.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-5.jpg",
@@ -135,7 +135,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-11.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
@@ -147,7 +147,7 @@ export const nfts = [
         url: "/nft",
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         image: "/images/nfts/image-12.jpg",
         category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",

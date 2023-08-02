@@ -12,7 +12,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "gelo",
+        login: "daniloff",
         total: "9.55 ETH",
         avatar: "/images/artists/artist-3.jpg",
         url: "/profile",
@@ -24,25 +24,25 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "_kolahon",
+        login: "maia",
         total: "12.29 ETH",
         avatar: "/images/artists/artist-5.jpg",
         url: "/profile",
     },
     {
-        login: "mcbess",
+        login: "delsaux",
         total: "17.65 ETH",
         avatar: "/images/artists/artist-6.jpg",
         url: "/profile",
     },
     {
-        login: "aaronpenne",
+        login: "livethelifetv",
         total: "77.29 ETH",
         avatar: "/images/artists/artist-7.jpg",
         url: "/profile",
     },
     {
-        login: "nocellcoverage",
+        login: "daniloff",
         total: "12.55 ETH",
         avatar: "/images/artists/artist-8.jpg",
         url: "/profile",

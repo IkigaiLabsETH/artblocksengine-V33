@@ -15,7 +15,7 @@ export const tabs = [
 
 export const spotlight = [
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-1.jpg",
         url: "/nft",
@@ -33,14 +33,14 @@ export const spotlight = [
         users: ["/images/users/avatar-1.jpg", "/images/users/avatar-3.jpg"],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-3.jpg",
         url: "/nft",
         users: ["/images/users/avatar-1.jpg", "/images/users/avatar-2.jpg"],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-4.jpg",
         url: "/nft",
@@ -51,7 +51,7 @@ export const spotlight = [
         ],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-5.jpg",
         url: "/nft",
@@ -69,7 +69,7 @@ export const spotlight = [
         users: ["/images/users/avatar-2.jpg", "/images/users/avatar-3.jpg"],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-7.jpg",
         url: "/nft",
@@ -105,7 +105,7 @@ export const spotlight = [
         users: ["/images/users/avatar-1.jpg", "/images/users/avatar-3.jpg"],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-11.jpg",
         url: "/nft",
@@ -116,7 +116,7 @@ export const spotlight = [
         ],
     },
     {
-        title: "The Currency",
+        title: "Flow Fields",
         price: "12.29 ETH",
         image: "/images/projects/image-12.jpg",
         url: "/nft",
