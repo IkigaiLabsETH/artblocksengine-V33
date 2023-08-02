@@ -7,25 +7,25 @@ import Item from "./Item";
 
 const list = [
     {
-        title: "The creator network.",
-        collection: "Escape II",
-        price: "10.00 ETH",
-        reserve: "2.38 ETH",
+        title: "Ikigai Labs.",
+        collection: "LFG II",
+        price: "6.9 ETH",
+        reserve: "4.20 ETH",
         image: "/images/main-pic-1.jpg",
     },
     {
-        title: "The creator network.",
-        collection: "Escape I",
-        price: "24.33 ETH",
-        reserve: "5.64 ETH",
+        title: "Ikigai Labs.",
+        collection: "LFG I",
+        price: "6.9 ETH",
+        reserve: "4.20 ETH",
         image: "/images/main-pic-2.jpg",
         color: "#BCE6EC",
     },
     {
-        title: "The creator network.",
-        collection: "Escape III",
-        price: "5.4 ETH",
-        reserve: "1.45 ETH",
+        title: "Ikigai Labs.",
+        collection: "LFG III",
+        price: "6.9 ETH",
+        reserve: "4.20 ETH",
         image: "/images/auction-pic-2.jpg",
         color: "#B9A9FB",
     },
@@ -46,12 +46,12 @@ const Main = ({}: MainProps) => (
             </div>
             <div className={styles.col}>
                 <div className={styles.content}>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities.
+                   Life is not fungible. We’re all an ERC-721. Built a few successful businesses 
+                   and is now living the good life. Explore our new passion project Ikigai Labs.
                 </div>
                 <Link href="/discover">
                     <a className={cn("button-empty", styles.search)}>
-                        start your search
+                        start your odyssey
                     </a>
                 </Link>
             </div>
