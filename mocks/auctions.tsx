@@ -1,6 +1,6 @@
 export const auctions = [
     {
-        login: "randomdash",
+        login: "livethelifetv",
         crypto: "8.00 ETH",
         price: "$24,635.39",
         image: "/images/auction-pic-1.jpg",
@@ -18,7 +18,7 @@ export const auctions = [
         url: "/nft/current-bid",
     },
     {
-        login: "randomdash",
+        login: "livethelifetv",
         crypto: "33.11 ETH",
         price: "$9,111.89",
         image: "/images/auction-pic-1.jpg",

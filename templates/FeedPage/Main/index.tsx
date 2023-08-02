@@ -10,7 +10,7 @@ const list = [
         image: "/images/main-pic-2.jpg",
         photo: "/images/balls.jpg",
         category: "ESCP",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-3.jpg",
         url: "/collection",
     },

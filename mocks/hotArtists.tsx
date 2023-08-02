@@ -1,6 +1,6 @@
 export const hotArtists = [
     {
-        login: "randomdash",
+        login: "livethelifetv",
         total: "12.29 ETH",
         avatar: "/images/artists/artist-1.jpg",
         url: "/profile",

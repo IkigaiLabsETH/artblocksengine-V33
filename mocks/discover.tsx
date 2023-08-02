@@ -3,7 +3,7 @@ export const discover = [
         title: "D-0-G",
         image: "/images/main-slide-1.jpg",
         avatar: "/images/artists/artist-1.jpg",
-        login: "randomdash",
+        login: "livethelifetv",
         time: 20,
     },
     {
@@ -17,7 +17,7 @@ export const discover = [
         title: "D-0-G",
         image: "/images/main-slide-1.jpg",
         avatar: "/images/artists/artist-1.jpg",
-        login: "randomdash",
+        login: "livethelifetv",
         time: 24,
     },
     {

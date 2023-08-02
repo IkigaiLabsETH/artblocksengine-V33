@@ -8,7 +8,7 @@ const statistics = [
         avatar: "/images/avatar.jpg",
         history: true,
         title: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
     },
     {
         label: "Collection",

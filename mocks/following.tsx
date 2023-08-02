@@ -19,7 +19,7 @@ export const following = [
     },
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
         follow: true,
@@ -46,7 +46,7 @@ export const following = [
     },
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
         follow: true,
@@ -91,7 +91,7 @@ export const following = [
     },
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
         follow: true,

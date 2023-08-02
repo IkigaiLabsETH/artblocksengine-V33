@@ -18,7 +18,7 @@ export const curatedCollections = [
     },
     {
         title: "all-access",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "1.2 ETH",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -39,7 +39,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "2.4 ETH",
         avatar: "/images/artists/artist-3.jpg",
         images: [
@@ -64,7 +64,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "5.4 ETH",
         avatar: "/images/artists/artist-4.jpg",
         images: [
@@ -99,7 +99,7 @@ export const curatedCollections = [
     },
     {
         title: "all-access",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "1.2 ETH",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -120,7 +120,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "2.4 ETH",
         avatar: "/images/artists/artist-3.jpg",
         images: [
@@ -145,7 +145,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "5.4 ETH",
         avatar: "/images/artists/artist-4.jpg",
         images: [
@@ -180,7 +180,7 @@ export const curatedCollections = [
     },
     {
         title: "UI8 all-access",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "1.2 ETH",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -201,7 +201,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "2.4 ETH",
         avatar: "/images/artists/artist-3.jpg",
         images: [
@@ -226,7 +226,7 @@ export const curatedCollections = [
     },
     {
         title: "Beyond the Dream",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "5.4 ETH",
         avatar: "/images/artists/artist-4.jpg",
         images: [
@@ -434,7 +434,7 @@ export const activityCollections = [
     },
     {
         title: "Cute Planet",
-        login: "randomdash",
+        login: "livethelifetv",
         price: "14.5 ETH",
         avatar: "/images/artists/artist-6.jpg",
         images: [
@@ -455,7 +455,7 @@ export const activityCollections = [
 export const collectionsCreators = [
     {
         title: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         photo: "/images/collection/pic-1.jpg",
         image: "/images/main-pic-2.jpg",
         avatar: "/images/artists/artist-1.jpg",
@@ -471,7 +471,7 @@ export const collectionsCreators = [
     },
     {
         title: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         photo: "/images/collection/pic-3.jpg",
         image: "/images/main-pic-2.jpg",
         avatar: "/images/artists/artist-5.jpg",

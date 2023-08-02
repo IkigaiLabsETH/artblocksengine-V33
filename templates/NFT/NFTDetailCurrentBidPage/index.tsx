@@ -54,7 +54,7 @@ const provenance = [
         history: true,
         content: (
             <>
-                Listed by <span>@randomdash</span>
+                Listed by <span>@livethelifetv</span>
             </>
         ),
         price: "4.20 ETH",
@@ -66,7 +66,7 @@ const provenance = [
         history: true,
         content: (
             <>
-                Minted by <span>@randomdash</span>
+                Minted by <span>@livethelifetv</span>
             </>
         ),
         price: "4.20 ETH",

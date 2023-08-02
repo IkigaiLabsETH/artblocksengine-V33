@@ -12,7 +12,7 @@ const statistics = [
         avatar: "/images/avatar.jpg",
         history: true,
         title: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
     },
     {
         label: "Collection",
@@ -46,7 +46,7 @@ const provenance = [
         history: true,
         content: (
             <>
-                Minted by <span>@randomdash</span>
+                Minted by <span>@livethelifetv</span>
             </>
         ),
         date: "Aug 18, 2022 at 18:80",

@@ -27,7 +27,7 @@ export const resultSearch = [
             },
             {
                 title: "The Currency",
-                login: "randomdash",
+                login: "livethelifetv",
                 image: "/images/result-pic-1.jpg",
                 url: "/collection",
             },
@@ -38,7 +38,7 @@ export const resultSearch = [
         items: [
             {
                 title: "Ikigai",
-                login: "randomdash",
+                login: "livethelifetv",
                 image: "/images/result-pic-2.jpg",
                 url: "/profile",
             },

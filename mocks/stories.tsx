@@ -42,7 +42,7 @@ export const storiesGallery = [
     },
     {
         author: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-5.jpg",
         gallery: [
             "/images/story-5.jpg",
@@ -54,7 +54,7 @@ export const storiesGallery = [
     },
     {
         author: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-1.jpg",
         gallery: [
             "/images/story-1.jpg",

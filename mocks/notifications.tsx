@@ -5,7 +5,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-1.jpg",
@@ -25,7 +25,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-3.jpg",
@@ -45,7 +45,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-5.jpg",
@@ -60,7 +60,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-1.jpg",
@@ -80,7 +80,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-3.jpg",
@@ -100,7 +100,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@randomdash</span> followed you
+                        <span>@livethelifetv</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-5.jpg",

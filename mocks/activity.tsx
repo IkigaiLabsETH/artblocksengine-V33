@@ -4,7 +4,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-1.jpg",
         fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-2.jpg",
-        toLogin: "randomdash",
+        toLogin: "daniloff",
         price: "0.21 ETH",
     },
     {
@@ -12,7 +12,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-3.jpg",
         fromLogin: "tranmautritam",
         toAvatar: "/images/artists/artist-4.jpg",
-        toLogin: "moyoshiro",
+        toLogin: "daniloff",
         price: "4.4 ETH",
     },
     {
@@ -20,7 +20,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-5.jpg",
         fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-6.jpg",
-        toLogin: "randomdash",
+        toLogin: "livethelifetv",
         price: "12.69ETH",
     },
     {
@@ -28,7 +28,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-7.jpg",
         fromLogin: "tranmautritam",
         toAvatar: "/images/artists/artist-8.jpg",
-        toLogin: "moyoshiro",
+        toLogin: "daniloff",
         price: "4.20 ETH",
     },
     {
@@ -36,7 +36,7 @@ export const activity = [
         fromAvatar: "/images/artists/artist-1.jpg",
         fromLogin: "Aloha",
         toAvatar: "/images/artists/artist-2.jpg",
-        toLogin: "randomdash",
+        toLogin: "livethelifetv",
         price: "3.33 ETH",
     },
 ];

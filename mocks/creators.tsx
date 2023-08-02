@@ -1,7 +1,7 @@
 export const creators = [
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         sale: "2.00 ETH",
         avatar: "/images/artists/artist-1.jpg",
         url: "/profile",
@@ -15,7 +15,7 @@ export const creators = [
     },
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         sale: "15.64 ETH",
         avatar: "/images/artists/artist-3.jpg",
         url: "/profile",
@@ -29,7 +29,7 @@ export const creators = [
     },
     {
         name: "Ikigai",
-        login: "randomdash",
+        login: "livethelifetv",
         sale: "7.68 ETH",
         avatar: "/images/artists/artist-5.jpg",
         url: "/profile",
