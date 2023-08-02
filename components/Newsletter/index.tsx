@@ -13,12 +13,10 @@ const Newsletter = ({}: NewsletterProps) => {
     return (
         <div className={styles.row}>
             <div className={styles.col}>
-                <div className={cn("h2", styles.title)}>Download</div>
+                <div className={cn("h2", styles.title)}>Editorial</div>
                 <div className={styles.content}>
-                    In web3, artists are taking back ownership and control over
-                    their creativity. All collections on ikigai are
-                    creator-owned smart contracts that will stand the test of
-                    time.
+                    All collections on Ikigai Labs XYZ are
+                    erc-721a creator-owned smart contracts. 
                 </div>
                 <div className={styles.btns}>
                     <a
@@ -27,7 +25,7 @@ const Newsletter = ({}: NewsletterProps) => {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <span>apple store</span>
+                        <span>live the life</span>
                         <Icon name="apple" />
                     </a>
                     <a
@@ -39,7 +37,7 @@ const Newsletter = ({}: NewsletterProps) => {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        <span>google play</span>
+                        <span>good vibes</span>
                         <Icon name="google-play" />
                     </a>
                 </div>
