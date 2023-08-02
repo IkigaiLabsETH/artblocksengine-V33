@@ -17,7 +17,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-1.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-6.jpg",
         avatar: "/images/artists/artist-1.jpg",
         login: "elnafrederick",
@@ -29,7 +29,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-2.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-5.jpg",
         avatar: "/images/artists/artist-5.jpg",
         login: "livethelifetv",
@@ -41,7 +41,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-3.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
         avatar: "/images/artists/artist-3.jpg",
         login: "elnafrederick",
@@ -53,7 +53,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-4.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",
         avatar: "/images/artists/artist-4.jpg",
         login: "livethelifetv",
@@ -65,7 +65,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-5.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-1.jpg",
         avatar: "/images/artists/artist-1.jpg",
         login: "elnafrederick",
@@ -77,7 +77,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-6.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-8.jpg",
         avatar: "/images/artists/artist-5.jpg",
         login: "livethelifetv",
@@ -89,7 +89,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-7.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
         avatar: "/images/artists/artist-3.jpg",
         login: "elnafrederick",
@@ -101,7 +101,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-8.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",
         avatar: "/images/artists/artist-4.jpg",
         login: "livethelifetv",
@@ -113,7 +113,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-9.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-6.jpg",
         avatar: "/images/artists/artist-1.jpg",
         login: "elnafrederick",
@@ -125,7 +125,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-10.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-5.jpg",
         avatar: "/images/artists/artist-5.jpg",
         login: "livethelifetv",
@@ -137,7 +137,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-11.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-3.jpg",
         avatar: "/images/artists/artist-3.jpg",
         login: "elnafrederick",
@@ -149,7 +149,7 @@ export const nfts = [
     {
         title: "The Currency",
         image: "/images/nfts/image-12.jpg",
-        category: "ESCP",
+        category: "GEN-ART",
         imageCategory: "/images/collection/image-2.jpg",
         avatar: "/images/artists/artist-4.jpg",
         login: "livethelifetv",
