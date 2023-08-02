@@ -14,7 +14,7 @@ const FeedPage = () => {
             <Stories />
             <CollectionCreators />
             <Catalog
-                title="Collect now"
+                title="Collect"
                 tabsTime={tabsTime}
                 filters={statuses}
                 items={nfts}
