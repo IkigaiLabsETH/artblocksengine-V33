@@ -32,7 +32,7 @@ const Collections = ({ scrollToRef }: CollectionsProps) => {
         <div className={styles.collections} ref={scrollToRef}>
             <div className={styles.head}>
                 <div className={cn("h1", styles.title)}>
-                    Most activity collections
+                    Trending
                 </div>
                 <Tabs
                     className={styles.tabs}
