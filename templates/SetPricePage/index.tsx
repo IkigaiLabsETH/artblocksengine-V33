@@ -24,7 +24,7 @@ const statistics = [
 
 const links = [
     {
-        title: "View on Etherscane",
+        title: "View on Etherscan",
         icon: "country",
         url: "https://livethelife.tv/",
     },
