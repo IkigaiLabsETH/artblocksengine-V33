@@ -15,8 +15,8 @@ const Newsletter = ({}: NewsletterProps) => {
             <div className={styles.col}>
                 <div className={cn("h2", styles.title)}>Editorial</div>
                 <div className={styles.content}>
-                    All collections on Ikigai Labs XYZ are
-                    erc-721a creator-owned smart contracts. 
+                    All collections on Ikigai are
+                    creator-owned smart contracts. 
                 </div>
                 <div className={styles.btns}>
                     <a
