@@ -47,7 +47,7 @@ const Upload = ({ title }: UploadProps) => {
                                 Drag and drop to upload your NFT
                             </div>
                             <div className={styles.format}>
-                                JPG, PNG, MP4. Max 50Mb
+                                JPG, PNG, GLB, MP4. Max 50Mb
                             </div>
                         </div>
                     </>

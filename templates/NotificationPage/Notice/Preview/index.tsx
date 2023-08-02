@@ -18,7 +18,7 @@ const Preview = ({}: PreviewProps) => (
             />
         </div>
         <div className={styles.head}>
-            <div className={cn("h3", styles.title)}>Escape</div>
+            <div className={cn("h3", styles.title)}>LiveTheLifeTV</div>
             <TimeCounter
                 className={styles.timer}
                 classTimerItem={styles.timerItem}
@@ -35,12 +35,12 @@ const Preview = ({}: PreviewProps) => (
                         src="/images/cute-planet.jpg"
                         layout="fill"
                         objectFit="cover"
-                        alt="Cute Planet"
+                        alt="Hasselblad"
                     />
                 </div>
                 <div className={styles.details}>
-                    <div className={styles.subtitle}>Cute Planet</div>
-                    <div className={styles.crypto}>12 NFTs</div>
+                    <div className={styles.subtitle}>Hasselblad</div>
+                    <div className={styles.crypto}>24 NFTs</div>
                 </div>
             </div>
             <div className={styles.lines}>

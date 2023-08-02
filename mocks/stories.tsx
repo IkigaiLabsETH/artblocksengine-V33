@@ -41,7 +41,7 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Dash",
+        author: "Ikigai",
         login: "randomdash",
         avatar: "/images/artists/artist-5.jpg",
         gallery: [
@@ -53,7 +53,7 @@ export const storiesGallery = [
         ],
     },
     {
-        author: "Dash",
+        author: "Ikigai",
         login: "randomdash",
         avatar: "/images/artists/artist-1.jpg",
         gallery: [

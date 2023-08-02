@@ -18,7 +18,7 @@ const Dream = ({}: DreamProps) => (
                             alt="Avatar"
                         />
                     </div>
-                    @randomdash
+                    @livethelifetv
                 </div>
                 <div className={styles.item}>
                     <div className={styles.image}>
@@ -32,12 +32,12 @@ const Dream = ({}: DreamProps) => (
                     Escape
                 </div>
             </div>
-            <div className={cn("h1", styles.title)}>Beyond the Dream.</div>
+            <div className={cn("h1", styles.title)}>Live The Life.</div>
             <div className={styles.line}>
                 <div className={styles.box}>
                     <div className={styles.text}>Buy now price</div>
-                    <div className={cn("h3", styles.crypto)}>8.00 ETH</div>
-                    <div className={styles.price}>$24,635.39</div>
+                    <div className={cn("h3", styles.crypto)}>4.20 ETH</div>
+                    <div className={styles.price}>$9,600.42</div>
                 </div>
                 <Link href="/make-offer">
                     <a className={cn("button-white", styles.button)}>

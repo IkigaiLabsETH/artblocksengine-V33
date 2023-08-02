@@ -6,7 +6,7 @@ type InformationProps = {};
 
 const Information = ({}: InformationProps) => {
     const [email, setEmail] = useState<string>("hello@livethelife.tv");
-    const [name, setName] = useState<string>("Dash");
+    const [name, setName] = useState<string>("Ikigai");
     const [bio, setBio] = useState<string>("");
     const [site, setSite] = useState<string>("https://livethelife.tv");
     const [twitter, setTwitter] = useState<string>("https://twitter.com/livethelife.tv");

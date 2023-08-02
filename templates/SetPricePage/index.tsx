@@ -11,7 +11,7 @@ const statistics = [
         label: "Created by",
         avatar: "/images/avatar.jpg",
         history: true,
-        title: "Dash",
+        title: "Ikigai",
         login: "randomdash",
     },
     {

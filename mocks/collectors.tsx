@@ -1,6 +1,6 @@
 export const collectors = [
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         sale: "100.00 ETH",
         avatar: "/images/artists/artist-6.jpg",
@@ -14,7 +14,7 @@ export const collectors = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         sale: "15.64 ETH",
         avatar: "/images/artists/artist-8.jpg",
@@ -28,7 +28,7 @@ export const collectors = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         sale: "17.68 ETH",
         avatar: "/images/artists/artist-2.jpg",

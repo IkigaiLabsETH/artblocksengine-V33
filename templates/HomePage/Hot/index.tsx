@@ -14,7 +14,7 @@ const Hot = ({}: HotProps) => (
             <div className={styles.details}>
                 <div className={styles.line}>
                     <div className={cn("h1", styles.title)}>
-                        Hot NFT artists of the month.
+                        Art Collective 2024.
                     </div>
                     <Link href="/discover/ranking">
                         <a className={styles.link}>
@@ -23,10 +23,8 @@ const Hot = ({}: HotProps) => (
                     </Link>
                 </div>
                 <div className={styles.content}>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey with you.
+                  CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. 
+                  It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721 tbh.
                 </div>
             </div>
         </div>

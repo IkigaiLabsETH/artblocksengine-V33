@@ -1,30 +1,30 @@
 export const artists = [
     {
-        login: "randomdash",
+        login: "daniloff",
         avatar: "/images/artists/artist-1.jpg",
         price: "12.29 ETH",
-        follow: false,
+        follow: true,
     },
     {
-        login: "Aloha",
+        login: "delsaux",
         avatar: "/images/artists/artist-6.jpg",
         price: "12.29 ETH",
-        follow: false,
+        follow: true,
     },
     {
-        login: "tranmautritam",
+        login: "maia",
         avatar: "/images/artists/artist-3.jpg",
         price: "12.29 ETH",
-        follow: false,
+        follow: true,
     },
     {
-        login: "moyoshiro",
+        login: "meek",
         avatar: "/images/artists/artist-4.jpg",
         price: "12.29 ETH",
-        follow: false,
+        follow: true,
     },
     {
-        login: "foxies",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-5.jpg",
         price: "12.29 ETH",
         follow: false,
@@ -33,7 +33,7 @@ export const artists = [
 
 export const artistsWeek = [
     {
-        name: "Dash",
+        name: "Letizia Lefur",
         avatar: "/images/artists/artist-1.jpg",
         sale: "5.244 ETH",
         crypto: "12 ETH",
@@ -41,7 +41,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Foxies",
+        name: "Joris Bacquet",
         avatar: "/images/artists/artist-2.jpg",
         sale: "12.29 ETH",
         crypto: "5 ETH",
@@ -49,7 +49,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Aloha",
+        name: "LiveTheLifeTV",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",
@@ -57,7 +57,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Hannah Whitacker",
         avatar: "/images/artists/artist-4.jpg",
         sale: "12.29 ETH",
         crypto: "5 ETH",
@@ -65,7 +65,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Moyo Shiro",
+        name: "Ryan Hopkins",
         avatar: "/images/artists/artist-5.jpg",
         sale: "5.66 ETH",
         crypto: "8 ETH",
@@ -73,7 +73,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Edouard Taufenbach et Bastien Pourtout",
         avatar: "/images/artists/artist-1.jpg",
         sale: "5.244 ETH",
         crypto: "12 ETH",
@@ -81,7 +81,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Foxies",
+        name: "Nick Meek",
         avatar: "/images/artists/artist-2.jpg",
         sale: "12.29 ETH",
         crypto: "5 ETH",
@@ -89,7 +89,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Aloha",
+        name: "Dimitri Daniloff",
         avatar: "/images/artists/artist-3.jpg",
         sale: "8.13 ETH",
         crypto: "3.2 ETH",
@@ -97,7 +97,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Maia Flore",
         avatar: "/images/artists/artist-4.jpg",
         sale: "12.29 ETH",
         crypto: "5 ETH",
@@ -105,47 +105,7 @@ export const artistsWeek = [
         url: "/profile",
     },
     {
-        name: "Moyo Shiro",
-        avatar: "/images/artists/artist-5.jpg",
-        sale: "5.66 ETH",
-        crypto: "8 ETH",
-        price: "$22,111",
-        url: "/profile",
-    },
-    {
-        name: "Dash",
-        avatar: "/images/artists/artist-1.jpg",
-        sale: "5.244 ETH",
-        crypto: "12 ETH",
-        price: "$24,550",
-        url: "/profile",
-    },
-    {
-        name: "Foxies",
-        avatar: "/images/artists/artist-2.jpg",
-        sale: "12.29 ETH",
-        crypto: "5 ETH",
-        price: "$15,000",
-        url: "/profile",
-    },
-    {
-        name: "Aloha",
-        avatar: "/images/artists/artist-3.jpg",
-        sale: "8.13 ETH",
-        crypto: "3.2 ETH",
-        price: "$9,344",
-        url: "/profile",
-    },
-    {
-        name: "Dash",
-        avatar: "/images/artists/artist-4.jpg",
-        sale: "12.29 ETH",
-        crypto: "5 ETH",
-        price: "$15,000",
-        url: "/profile",
-    },
-    {
-        name: "Moyo Shiro",
+        name: "Cedric Delsaux",
         avatar: "/images/artists/artist-5.jpg",
         sale: "5.66 ETH",
         crypto: "8 ETH",

@@ -19,8 +19,7 @@ const CreatPage = () => {
                 content={
                     <>
                         Congratulations! Your artwork has officially been minted
-                        as an NFT on the Ethereum blockchain to your collection
-                        Cute Planet
+                        as an NFT on the Ethereum blockchain to your collection.
                     </>
                 }
             />

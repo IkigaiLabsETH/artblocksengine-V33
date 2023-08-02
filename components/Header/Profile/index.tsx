@@ -90,8 +90,8 @@ const Profile = ({
                             />
                         </div>
                         <div className={styles.details}>
-                            <div className={cn("h3", styles.man)}>Dash</div>
-                            <div className={styles.login}>@randomdash</div>
+                            <div className={cn("h3", styles.man)}>GM</div>
+                            <div className={styles.login}>@livethelifetv</div>
                         </div>
                     </div>
                     <Wallet onDisconnect={onClose} />

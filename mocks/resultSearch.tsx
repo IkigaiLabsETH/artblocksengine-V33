@@ -37,7 +37,7 @@ export const resultSearch = [
         title: "artist",
         items: [
             {
-                title: "Dash",
+                title: "Ikigai",
                 login: "randomdash",
                 image: "/images/result-pic-2.jpg",
                 url: "/profile",

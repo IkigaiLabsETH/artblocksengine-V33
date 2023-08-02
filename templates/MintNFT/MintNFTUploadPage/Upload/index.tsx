@@ -29,7 +29,7 @@ const Upload = ({ title }: UploadProps) => {
                     src="/images/main-pic-1.jpg"
                     layout="fill"
                     objectFit="cover"
-                    alt="Cute planet"
+                    alt="Aloha"
                 />
             </div>
             <div className={cn("h3", styles.title)}>{title}</div>
@@ -39,12 +39,12 @@ const Upload = ({ title }: UploadProps) => {
                         src="/images/cute-planet-1.png"
                         layout="fill"
                         objectFit="cover"
-                        alt="Cute planet"
+                        alt="Aloha"
                     />
                 </div>
                 <div className={styles.wrap}>
-                    <div className={styles.subtitle}>Cute Planet</div>
-                    <div className={styles.price}>12 NFTs</div>
+                    <div className={styles.subtitle}>Aloha</div>
+                    <div className={styles.price}>24 NFTs</div>
                 </div>
                 <div className={styles.lines}></div>
             </div>

@@ -9,7 +9,7 @@ const statistics = [
         label: "Created by",
         avatar: "/images/avatar.jpg",
         history: true,
-        title: "Dash",
+        title: "Ikigai",
         login: "randomdash",
     },
     {
@@ -44,10 +44,10 @@ const provenance = [
         history: true,
         content: (
             <>
-                Minted by <span>@randomdash</span>
+                Minted by <span>@livethelifetv</span>
             </>
         ),
-        date: "Aug 18, 2022 at 18:80",
+        date: "Aug 18, 2023 at 18:80",
         url: "https://livethelife.tv/",
     },
 ];
@@ -59,20 +59,20 @@ const MakeOfferPage = () => {
             <Description
                 image="/images/main-pic-1.jpg"
                 captionHide
-                title="Escape"
+                title="LiveTheLifeTV"
                 date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
                 addTags
                 provenance={provenance}
-                content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                content="Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
             >
                 <>
                     <Details
                         title="Make an offer"
-                        content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                        content="Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
                         linkUrl="/article"
-                        linkTitle="Learn how to make an offer"
+                        linkTitle="How to make an offer"
                     />
                     <Price
                         title="Total offer"

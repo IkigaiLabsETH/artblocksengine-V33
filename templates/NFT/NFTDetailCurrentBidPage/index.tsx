@@ -7,14 +7,14 @@ const statistics = [
         label: "Created by",
         avatar: "/images/avatar.jpg",
         history: true,
-        title: "Dash",
-        login: "randomdash",
+        title: "GM",
+        login: "gm",
     },
     {
         label: "Collection",
         image: "/images/robot.jpg",
-        title: "Cute Planet",
-        category: "cute",
+        title: "Hasselblad",
+        category: "cm500",
     },
 ];
 
@@ -42,11 +42,11 @@ const provenance = [
         history: true,
         content: (
             <>
-                Bid placed by <span>0x56C1...8eCC</span>
+                Bid placed by <span>livethelifetv.eth</span>
             </>
         ),
-        price: "5.00 ETH",
-        date: "Aug 18, 2022 at 18:80",
+        price: "4.20 ETH",
+        date: "Aug 18, 2023 at 18:80",
         url: "https://livethelife.tv/",
     },
     {
@@ -57,8 +57,8 @@ const provenance = [
                 Listed by <span>@randomdash</span>
             </>
         ),
-        price: "5.00 ETH",
-        date: "Aug 18, 2022 at 18:80",
+        price: "4.20 ETH",
+        date: "Aug 18, 2023 at 18:80",
         url: "https://livethelife.tv/",
     },
     {
@@ -69,22 +69,22 @@ const provenance = [
                 Minted by <span>@randomdash</span>
             </>
         ),
-        price: "5.00 ETH",
-        date: "Aug 18, 2022 at 18:80",
+        price: "4.20 ETH",
+        date: "Aug 18, 2023 at 18:80",
         url: "https://livethelife.tv/",
     },
 ];
 
 const tags = [
-    "Cute",
-    "Robot",
-    "Cute Planet",
-    "Suitcase",
-    "Spaceship",
+    "Velvia",
+    "Blackmagic",
+    "Hasselblad",
+    "Soft Light",
+    "Photogrammetry",
     "Animation",
-    "Redshift Render",
-    "3D",
-    "Character",
+    "Blender",
+    "3D Mixed Media",
+    "Photography",
     "Cinema 4D",
 ];
 
@@ -94,7 +94,7 @@ const MintNFTPage = () => {
             <Description
                 image="/images/cute-planet-large.jpg"
                 title="The Explorer"
-                date="Minted on Aug 18, 2022"
+                date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
                 tags={tags}
@@ -103,15 +103,15 @@ const MintNFTPage = () => {
                     history: true,
                     content: (
                         <>
-                            Auction won by <span>0x56C1...8eCC</span>
+                            Auction won by <span>livethelifetv.eth</span>
                         </>
                     ),
                     title: (
                         <>
-                            Sold for <span>6.05 ETH</span> $9,256.58
+                            Sold for <span>4.20 ETH</span> $9,420.69
                         </>
                     ),
-                    date: "Aug 18, 2022 at 18:80",
+                    date: "Aug 18, 2023 at 18:80",
 
                     linkTitle: (
                         <>
@@ -121,7 +121,7 @@ const MintNFTPage = () => {
                     linkUrl: "https://livethelife.tv/",
                 }}
                 provenance={provenance}
-                content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
             >
                 <Details />
             </Description>

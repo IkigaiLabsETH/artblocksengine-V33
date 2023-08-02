@@ -52,7 +52,7 @@ const Details = ({}: DetailsProps) => (
                     />
                 </div>
                 <div className={styles.wrap}>
-                    <div className={styles.author}>Dash</div>
+                    <div className={styles.author}>Ikigai</div>
                     <div className={styles.code}>0x56C1...8eCC</div>
                 </div>
             </div>

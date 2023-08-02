@@ -18,7 +18,7 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
@@ -45,7 +45,7 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",
@@ -90,7 +90,7 @@ export const following = [
         url: "/profile",
     },
     {
-        name: "Dash",
+        name: "Ikigai",
         login: "randomdash",
         avatar: "/images/artists/artist-1.jpg",
         crypto: "12 NFTs",

@@ -20,7 +20,7 @@ const Offer = ({}: OfferProps) => (
                 <div className={styles.details}>
                     <div className={styles.line}>
                         <div className={styles.text}>Received from</div>
-                        <div className={styles.code}>x456...8jh7</div>
+                        <div className={styles.code}>livethelifetv.eth</div>
                     </div>
                     <div className={styles.login}>@randomdash</div>
                 </div>

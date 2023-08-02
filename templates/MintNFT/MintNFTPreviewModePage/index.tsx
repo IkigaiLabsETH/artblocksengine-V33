@@ -7,7 +7,7 @@ const statistics = [
         label: "Created by",
         avatar: "/images/avatar.jpg",
         history: true,
-        title: "Dash",
+        title: "Ikigai",
         login: "randomdash",
     },
     {
@@ -24,18 +24,19 @@ const MintNFTPage = () => {
             <Description
                 exit
                 image="/images/main-pic-1.jpg"
-                title="Escape"
-                date="Minted on Aug 18, 2022"
+                title="LiveTheLifeTV"
+                date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 content={
                     <>
                         <p>
-                            We are laying the groundwork for web3 — the next
-                            generation of the internet full of limitless
-                            possibilities. Join the millions of creators,
-                            collectors, and curators who are on this journey.
+                            CREATE / CURATE / COLLECT. 
+                            Turn creators into curators & collectors into co-owners. 
+                            It's the Renaissance but onchain! 
+                            Life is not fungible. 
+                            We’re all an ERC-721
                         </p>
-                        <p>Official website: livethelife.tv</p>
+                        <p>Website: livethelife.tv</p>
                     </>
                 }
             >
