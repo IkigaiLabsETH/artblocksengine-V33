@@ -18,7 +18,7 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Moyo Shiro",
+        name: "Good Vibes",
         login: "moyoshiro",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
@@ -63,7 +63,7 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Moyo Shiro",
+        name: "Good Vibes",
         login: "moyoshiro",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
@@ -108,7 +108,7 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Moyo Shiro",
+        name: "Good Vibes",
         login: "moyoshiro",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
