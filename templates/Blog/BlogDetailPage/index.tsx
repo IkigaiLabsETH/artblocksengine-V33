@@ -12,7 +12,7 @@ const BlogDetailPage = () => {
             <Main
                 classTitle="h1"
                 image="/images/blog-detail.jpg"
-                title="8 things you didn't know you could do on ikigai"
+                title="The Metaverse Fine Art Gallery"
                 info="ikigai NFT marketplace blog"
             />
             <Article />

@@ -47,7 +47,7 @@ const provenance = [
                 Minted by <span>@livethelifetv</span>
             </>
         ),
-        date: "Aug 18, 2022 at 18:80",
+        date: "Aug 18, 2023 at 18:80",
         url: "https://livethelife.tv/",
     },
 ];
@@ -60,7 +60,7 @@ const PlaceBidPage = () => {
                 image="/images/main-pic-1.jpg"
                 captionHide
                 title="Ikigai"
-                date="Minted on Aug 18, 2022"
+                date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
                 addTags

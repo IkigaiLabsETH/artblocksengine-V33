@@ -13,7 +13,7 @@ export const activity = [
         fromLogin: "livethelifetv",
         toAvatar: "/images/artists/artist-4.jpg",
         toLogin: "daniloff",
-        price: "4.4 ETH",
+        price: "4.20 ETH",
     },
     {
         nft: "/images/nfts/image-3.jpg",

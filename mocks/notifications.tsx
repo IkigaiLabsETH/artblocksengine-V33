@@ -1,6 +1,6 @@
 export const notifications = [
     {
-        month: "August 2022",
+        month: "August 2023",
         items: [
             {
                 content: (
@@ -55,7 +55,7 @@ export const notifications = [
         ],
     },
     {
-        month: "July 2022",
+        month: "July 2023",
         items: [
             {
                 content: (
