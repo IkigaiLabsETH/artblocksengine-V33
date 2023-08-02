@@ -19,7 +19,7 @@ const list = [
         image: "/images/main-pic-1.jpg",
         photo: "/images/avatar-1.jpg",
         category: "ESCP",
-        login: "tranmautritam",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-4.jpg",
         color: "#BCE6EC",
         url: "/collection",

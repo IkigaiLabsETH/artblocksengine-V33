@@ -21,7 +21,7 @@ export const resultSearch = [
         items: [
             {
                 title: "The Currency",
-                login: "tranmautritam",
+                login: "livethelifetv",
                 image: "/images/result-pic-3.jpg",
                 url: "/collection",
             },
@@ -44,7 +44,7 @@ export const resultSearch = [
             },
             {
                 title: "Tran Mau Tri Tam",
-                login: "tranmautritam",
+                login: "livethelifetv",
                 image: "/images/result-pic-3.jpg",
                 url: "/profile",
             },

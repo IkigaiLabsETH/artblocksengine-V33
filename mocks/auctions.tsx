@@ -9,7 +9,7 @@ export const auctions = [
         url: "/nft/current-bid",
     },
     {
-        login: "tranmautritam",
+        login: "daniloff",
         crypto: "12.50 ETH",
         price: "$13,434.12",
         image: "/images/auction-pic-2.jpg",

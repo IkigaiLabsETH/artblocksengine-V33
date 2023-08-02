@@ -10,7 +10,7 @@ export const activity = [
     {
         nft: "/images/nfts/image-1.jpg",
         fromAvatar: "/images/artists/artist-3.jpg",
-        fromLogin: "tranmautritam",
+        fromLogin: "livethelifetv",
         toAvatar: "/images/artists/artist-4.jpg",
         toLogin: "daniloff",
         price: "4.4 ETH",
@@ -26,7 +26,7 @@ export const activity = [
     {
         nft: "/images/nfts/image-4.jpg",
         fromAvatar: "/images/artists/artist-7.jpg",
-        fromLogin: "tranmautritam",
+        fromLogin: "livethelifetv",
         toAvatar: "/images/artists/artist-8.jpg",
         toLogin: "daniloff",
         price: "4.20 ETH",

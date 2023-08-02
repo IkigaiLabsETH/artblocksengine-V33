@@ -1,7 +1,7 @@
 export const curatedCollections = [
     {
         title: "Cute Planet",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
         images: [
@@ -82,7 +82,7 @@ export const curatedCollections = [
     },
     {
         title: "Cute Planet",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
         images: [
@@ -163,7 +163,7 @@ export const curatedCollections = [
     },
     {
         title: "Cute Planet",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
         images: [
@@ -244,7 +244,7 @@ export const curatedCollections = [
     },
     {
         title: "Cute Planet",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
         images: [
@@ -333,7 +333,7 @@ export const profileCollections = [
 export const activityCollections = [
     {
         title: "Cute Robot",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
         images: [
@@ -413,7 +413,7 @@ export const activityCollections = [
     },
     {
         title: "Cute Robot",
-        login: "tranmautritam",
+        login: "livethelifetv",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-5.jpg",
         images: [
@@ -463,7 +463,7 @@ export const collectionsCreators = [
     },
     {
         title: "Ikigai II",
-        login: "tranmautritam",
+        login: "livethelifetv",
         photo: "/images/collection/pic-2.jpg",
         image: "/images/main-pic-2.jpg",
         avatar: "/images/artists/artist-4.jpg",
@@ -479,7 +479,7 @@ export const collectionsCreators = [
     },
     {
         title: "Ikigai",
-        login: "tranmautritam",
+        login: "livethelifetv",
         photo: "/images/collection/pic-4.jpg",
         image: "/images/main-pic-2.jpg",
         avatar: "/images/artists/artist-6.jpg",
