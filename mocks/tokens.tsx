@@ -1,6 +1,6 @@
 export const nfts = [
     {
-        title: "The Explorer",
+        title: "Cedric Delsaux",
         image: "/images/tokens/token-2.jpg",
         price: "12.29 ETH",
         url: "/nft",
@@ -29,7 +29,7 @@ export const nfts = [
         ],
     },
     {
-        title: "The Explorer",
+        title: "Cedric Delsaux",
         image: "/images/tokens/token-4.jpg",
         price: "12.29 ETH",
         url: "/nft",

@@ -93,7 +93,7 @@ const MintNFTPage = () => {
         <Layout layoutNoOverflow footerHide>
             <Description
                 image="/images/cute-planet-large.jpg"
-                title="The Explorer"
+                title="Cedric Delsaux"
                 date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
