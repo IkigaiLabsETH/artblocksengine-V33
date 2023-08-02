@@ -44,7 +44,7 @@ const Artists = ({}: ArtistsProps) => {
             <div className={styles.col}>
                 <div className={styles.wrap}>
                     <div className={cn("hero", styles.title)}>
-                        <span>Artist</span> <br></br>of the <span>week</span>
+                        <span>Ikigai</span> <br></br>Art <span>Collective</span>
                     </div>
                     <Form
                         className={styles.form}
