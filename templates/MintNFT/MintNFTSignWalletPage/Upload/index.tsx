@@ -17,7 +17,7 @@ const Upload = ({}: UploadProps) => {
                     alt="Cute planet"
                 />
             </div>
-            <div className={cn("h3", styles.title)}>Escape</div>
+            <div className={cn("h3", styles.title)}>Ikigai</div>
             <div className={styles.item}>
                 <div className={styles.preview}>
                     <Image
@@ -28,7 +28,7 @@ const Upload = ({}: UploadProps) => {
                     />
                 </div>
                 <div className={styles.wrap}>
-                    <div className={styles.subtitle}>Cute Planet</div>
+                    <div className={styles.subtitle}>LiveTheLife</div>
                     <div className={styles.price}>12 NFTs</div>
                 </div>
                 <div className={styles.lines}></div>

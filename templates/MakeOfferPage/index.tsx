@@ -15,7 +15,7 @@ const statistics = [
     {
         label: "Collection",
         image: "/images/balls.jpg",
-        title: "Escape",
+        title: "Ikigai",
         category: "cute",
     },
 ];

@@ -16,7 +16,7 @@ const Artists = ({ scrollToRef }: ArtistsProps) => (
             <div className={styles.wrap}>
                 <div className={styles.head}>
                     <div className={cn("h1", styles.title)}>
-                        Hot NFT artists of the month.
+                        Ikigai Labs Art Collective 2024.
                     </div>
                     <Link href="/discover/ranking">
                         <a className={styles.link}>

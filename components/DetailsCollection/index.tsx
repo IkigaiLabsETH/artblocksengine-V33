@@ -16,7 +16,7 @@ const Details = ({ details }: DetailsProps) => {
         <div className={styles.details}>
             <div className={styles.head}>
                 <div className={styles.box}>
-                    <div className={cn("h2", styles.user)}>Cute Planet</div>
+                    <div className={cn("h2", styles.user)}>LiveTheLife</div>
                     <div className={styles.line}>
                         <div className={styles.category}>CUTE</div>
                         <div className={styles.code}>
@@ -53,10 +53,10 @@ const Details = ({ details }: DetailsProps) => {
             <div className={styles.foot}>
                 <div className={styles.stage}>Description</div>
                 <div className={styles.content}>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </div>
             </div>
         </div>

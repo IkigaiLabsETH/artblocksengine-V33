@@ -8,13 +8,13 @@ import Image from "@/components/Image";
 
 const list = [
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         price: "4 NFT",
         image: "/images/cute-planet.jpg",
         url: "/collection",
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         price: "12 NFT",
         image: "/images/escape.jpg",
         url: "/collection",

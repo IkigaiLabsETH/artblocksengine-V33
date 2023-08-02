@@ -13,10 +13,10 @@ export const creativity = [
                 </p>
                 <ul>
                     <li>
-                        You’ll earn a 10% royalty for all secondary market
+                        You’ll earn a 6.9% royalty for all secondary market
                         sales.
                     </li>
-                    <li>Creativity is valuable on ikigai</li>
+                    <li>Art Is Life</li>
                 </ul>
             </>
         ),
@@ -35,7 +35,7 @@ export const creativity = [
                     your creative practice.
                 </p>
                 <p>
-                    Plus, you’ll earn a 10% royalty for all secondary market
+                    Plus, you’ll earn a 6.9% royalty for all secondary market
                     sales. Forever.
                 </p>
             </>
@@ -49,8 +49,8 @@ export const creativity = [
                 <h2>Create together, earn together.</h2>
                 <p>
                     Add a Split to your NFT to seamlessly pay creative
-                    collaborators—photographers, producers, choreographers,
-                    dancers, poets—and so on.
+                    collaborators—photographers, producers, filmmakers,
+                    designers, writers—and so on.
                 </p>
                 <p>
                     You can also use Splits to donate directly to the causes you

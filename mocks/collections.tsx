@@ -1,6 +1,6 @@
 export const curatedCollections = [
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -81,7 +81,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -162,7 +162,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -243,7 +243,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -263,7 +263,7 @@ export const curatedCollections = [
 
 export const profileCollections = [
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/collection/collection-1.jpg",
         balance: 22.4,
         floor: "1.00 ETH",
@@ -277,7 +277,7 @@ export const profileCollections = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/collection/collection-2.jpg",
         balance: 45.2,
         floor: "14.34 ETH",
@@ -287,7 +287,7 @@ export const profileCollections = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/collection/collection-3.jpg",
         balance: -9.4,
         floor: "3.56 ETH",
@@ -301,7 +301,7 @@ export const profileCollections = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/collection/collection-4.jpg",
         balance: 55.7,
         floor: "23.02 ETH",
@@ -315,7 +315,7 @@ export const profileCollections = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/collection/collection-5.jpg",
         balance: -6.8,
         floor: "5.44 ETH",
@@ -349,7 +349,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "moyoshiro",
         price: "2.8 ETH",
         avatar: "/images/artists/artist-2.jpg",
@@ -370,7 +370,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "Aloha",
         price: "4.9 ETH",
         avatar: "/images/artists/artist-3.jpg",
@@ -396,7 +396,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "moyoshiro",
         price: "0.3 ETH",
         avatar: "/images/artists/artist-4.jpg",
@@ -433,7 +433,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "Cute Planet",
+        title: "LiveTheLife",
         login: "randomdash",
         price: "14.5 ETH",
         avatar: "/images/artists/artist-6.jpg",
@@ -454,7 +454,7 @@ export const activityCollections = [
 
 export const collectionsCreators = [
     {
-        title: "Escape",
+        title: "Ikigai",
         login: "randomdash",
         photo: "/images/collection/pic-1.jpg",
         image: "/images/main-pic-2.jpg",
@@ -462,7 +462,7 @@ export const collectionsCreators = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         login: "tranmautritam",
         photo: "/images/collection/pic-2.jpg",
         image: "/images/main-pic-2.jpg",
@@ -470,7 +470,7 @@ export const collectionsCreators = [
         url: "/collection",
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         login: "randomdash",
         photo: "/images/collection/pic-3.jpg",
         image: "/images/main-pic-2.jpg",
@@ -478,7 +478,7 @@ export const collectionsCreators = [
         url: "/collection",
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         login: "tranmautritam",
         photo: "/images/collection/pic-4.jpg",
         image: "/images/main-pic-2.jpg",

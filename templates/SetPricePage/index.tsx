@@ -17,7 +17,7 @@ const statistics = [
     {
         label: "Collection",
         image: "/images/balls.jpg",
-        title: "Escape",
+        title: "Ikigai",
         category: "cute",
     },
 ];
@@ -65,13 +65,13 @@ const MintNFTPage = () => {
             <Description
                 image="/images/main-pic-1.jpg"
                 captionHide={buy || reserve}
-                title="Escape"
+                title="Ikigai"
                 date="Minted on Aug 18, 2022"
                 statistics={statistics}
                 links={links}
                 addTags
                 provenance={provenance}
-                content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
             >
                 {buy && (
                     <>
@@ -99,7 +99,7 @@ const MintNFTPage = () => {
                             totalReceive="0.00 ETH"
                             buttonText="set price"
                             onClick={() => setBuy(false)}
-                            content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                            content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
                         />
                     </>
                 )}
@@ -129,7 +129,7 @@ const MintNFTPage = () => {
                             totalReceive="0.00 ETH"
                             buttonText="set price"
                             onClick={() => setReserve(false)}
-                            content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                            content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
                         />
                     </>
                 )}

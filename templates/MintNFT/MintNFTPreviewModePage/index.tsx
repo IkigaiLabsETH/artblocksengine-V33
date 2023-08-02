@@ -13,7 +13,7 @@ const statistics = [
     {
         label: "Collection",
         image: "/images/balls.jpg",
-        title: "Cute Planet",
+        title: "LiveTheLife",
         category: "cute",
     },
 ];

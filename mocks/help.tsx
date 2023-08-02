@@ -146,26 +146,28 @@ export const detail = [
             <>
                 <h3>Guide to collection NFT artworks on ikigai</h3>
                 <p>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey with you.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <p>
-                    Ratione earum minus quia consectetur debitis magnam. Ex nemo
-                    maiores reiciendis distinctio. Cupiditate nihil doloribus
-                    repellat voluptatem.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <p>
-                    Et id possimus harum ipsa eum odit labore. Eligendi repellat
-                    impedit eaque corporis dolor ipsam vero. Vitae beatae
-                    aperiam consequatur consequatur praesentium minus sequi
-                    magni.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <p>
-                    Et neque dolor velit aliquid earum reiciendis sequi harum.
-                    Laudantium et doloremque deleniti quaerat. Dolorem molestias
-                    doloribus. Non non laboriosam ut assumenda vel aut sequi.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
             </>
         ),
@@ -176,14 +178,14 @@ export const detail = [
             <>
                 <h3>Place a bid</h3>
                 <p>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey with you.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <p>
-                    Et neque dolor velit aliquid earum reiciendis sequi harum.
-                    Laudantium et doloremque deleniti quaerat.
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <ul>
                     <li>Connect your wallet to ikigai</li>
@@ -201,10 +203,10 @@ export const detail = [
             <>
                 <h3>Buy now</h3>
                 <p>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey with you.
+                   CREATE / CURATE / COLLECT. 
+                   Turn creators into curators & collectors into co-owners. 
+                   It's the Renaissance but onchain! Life is not fungible. 
+                   We’re all an ERC-721.
                 </p>
                 <p>
                     Et neque dolor velit aliquid earum reiciendis sequi harum.

@@ -14,7 +14,7 @@ const statistics = [
     {
         label: "Collection",
         image: "/images/balls.jpg",
-        title: "Escape",
+        title: "Ikigai",
         category: "cute",
     },
 ];
@@ -57,13 +57,13 @@ const BuyNowPage = () => {
             <Description
                 image="/images/main-pic-1.jpg"
                 captionHide
-                title="Escape"
+                title="Ikigai"
                 date="Minted on Aug 18, 2023"
                 statistics={statistics}
                 links={links}
                 addTags
                 provenance={provenance}
-                content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
             >
                 <>
                     <Details
@@ -71,7 +71,7 @@ const BuyNowPage = () => {
                         content={
                             <>
                                 Confirm the transaction to buy{" "}
-                                <strong>Escape NFT</strong>
+                                <strong>Ikigai NFT</strong>
                             </>
                         }
                         linkUrl="/article"
@@ -81,7 +81,7 @@ const BuyNowPage = () => {
                         title="Total price"
                         price="1.00"
                         buttonText="confirm"
-                        content="We are laying the groundwork for web3 — the next generation of the internet full of limitless possibilities. Join the millions of creators, collectors, and curators who are on this journey with you."
+                        content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
                     />
                 </>
             </Description>

@@ -11,14 +11,14 @@ export const nfts = [
         ],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-1.jpg",
         price: "12.29 ETH",
         url: "/nft",
         users: ["/images/users/avatar-4.jpg", "/images/users/avatar-5.jpg"],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-3.jpg",
         price: "12.29 ETH",
         url: "/nft",
@@ -40,7 +40,7 @@ export const nfts = [
         ],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-5.jpg",
         price: "12.29 ETH",
         url: "/nft",
@@ -51,14 +51,14 @@ export const nfts = [
         ],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-6.jpg",
         price: "12.29 ETH",
         url: "/nft",
         users: ["/images/users/avatar-2.jpg", "/images/users/avatar-3.jpg"],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-7.jpg",
         price: "12.29 ETH",
         url: "/nft",
@@ -69,7 +69,7 @@ export const nfts = [
         ],
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/tokens/token-8.jpg",
         price: "12.29 ETH",
         url: "/nft",

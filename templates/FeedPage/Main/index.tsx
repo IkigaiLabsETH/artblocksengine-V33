@@ -6,7 +6,7 @@ import Item from "./Item";
 
 const list = [
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/main-pic-2.jpg",
         photo: "/images/balls.jpg",
         category: "ESCP",
@@ -15,7 +15,7 @@ const list = [
         url: "/collection",
     },
     {
-        title: "Escape II",
+        title: "Ikigai II",
         image: "/images/main-pic-1.jpg",
         photo: "/images/avatar-1.jpg",
         category: "ESCP",
@@ -25,7 +25,7 @@ const list = [
         url: "/collection",
     },
     {
-        title: "Escape",
+        title: "Ikigai",
         image: "/images/auction-pic-2.jpg",
         photo: "/images/cute-planet.jpg",
         category: "ESCP",

@@ -65,7 +65,7 @@ const Form = ({ title, setTitle, description, setDescription }: FormProps) => {
                         />
                     </div>
                     <div className={styles.details}>
-                        <div className={styles.subtitle}>Escape</div>
+                        <div className={styles.subtitle}>Ikigai</div>
                         <div className={styles.price}>12 NFTs</div>
                     </div>
                     <div className={styles.check}>

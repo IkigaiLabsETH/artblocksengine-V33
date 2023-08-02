@@ -29,7 +29,7 @@ const Dream = ({}: DreamProps) => (
                             alt="Avatar"
                         />
                     </div>
-                    Escape
+                    Ikigai
                 </div>
             </div>
             <div className={cn("h1", styles.title)}>Live The Life.</div>
