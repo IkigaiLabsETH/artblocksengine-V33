@@ -19,7 +19,7 @@ const HomePage = () => {
             <Collections />
             <Auctions items={auctions} />
             <Spotlight />
-            <Creativity />
+            // <Creativity />
             <Newsletter />
         </Layout>
     );
