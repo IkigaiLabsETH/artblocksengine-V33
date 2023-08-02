@@ -18,7 +18,7 @@ export const hotArtists = [
         url: "/profile",
     },
     {
-        login: "elnafrederick",
+        login: "goodvibesonly",
         total: "2.29 ETH",
         avatar: "/images/artists/artist-4.jpg",
         url: "/profile",
