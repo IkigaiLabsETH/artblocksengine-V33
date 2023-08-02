@@ -32,7 +32,7 @@ const Form = ({ title, setTitle, description, setDescription }: FormProps) => {
                 </button>
             </div>
             <div className={styles.info}>
-                Deploy a smart contract to showcase a series of NFT artworks.
+                Deploy Your Smart Contract
             </div>
             <Field
                 className={styles.field}
