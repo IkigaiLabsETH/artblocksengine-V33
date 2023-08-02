@@ -30,7 +30,7 @@ const CreatPage = () => {
                     <a className={styles.add}>
                         <div className={styles.plus}></div>
                         <div className={styles.info}>Create new collection</div>
-                        <div className={styles.text}>a</div>
+                        <div className={styles.text}>LFG ANON</div>
                     </a>
                 </Link>
                 <div className={styles.list}>
