@@ -22,7 +22,7 @@ const Preview = ({}: PreviewProps) => (
                     alt="Prreview"
                 />
             </div>
-            <div className={styles.category}>CUTE</div>
+            <div className={styles.category}>LTL</div>
         </div>
         <div className={styles.head}>
             <div className={cn("h4", styles.subtitle)}>Good Vibes</div>

@@ -28,8 +28,7 @@ const CreatPage = () => {
                             </Link>
                         </div>
                         <div className={styles.info}>
-                            Deploy a smart contract to showcase a series of NFT
-                            artworks.
+                            Deploy your smart contract.
                         </div>
                         <form
                             className={styles.form}

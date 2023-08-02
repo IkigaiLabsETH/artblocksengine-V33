@@ -30,7 +30,7 @@ const CreatPage = () => {
                     <a className={styles.add}>
                         <div className={styles.plus}></div>
                         <div className={styles.info}>Create new collection</div>
-                        <div className={styles.text}>LFG ANON</div>
+                        <div className={styles.text}>GM ANON LFG</div>
                     </a>
                 </Link>
                 <div className={styles.list}>
@@ -46,7 +46,7 @@ const CreatPage = () => {
                 <div className={styles.foot}>
                     <Link href="/article">
                         <a className={styles.link}>
-                            Learn about Collection on ikigai
+                            Read more on the Ikigai Editorial
                         </a>
                     </Link>
                 </div>

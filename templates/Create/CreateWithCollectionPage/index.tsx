@@ -9,13 +9,13 @@ import Image from "@/components/Image";
 const list = [
     {
         title: "Good Vibes",
-        price: "4 NFT",
+        price: "69 NFT",
         image: "/images/cute-planet.jpg",
         url: "/collection",
     },
     {
         title: "Ikigai",
-        price: "12 NFT",
+        price: "420 NFT",
         image: "/images/escape.jpg",
         url: "/collection",
     },
@@ -28,7 +28,7 @@ const CreatPage = () => {
                 left={
                     <>
                         <div className={cn("h1", styles.title)}>
-                            Create on <br></br>ikigai.
+                            Create on <br></br>IKIGAI.
                         </div>
                         <Arrow className={styles.arrow} />
                         <div className={styles.content}>
@@ -74,7 +74,7 @@ const CreatPage = () => {
                 <div className={styles.foot}>
                     <Link href="/">
                         <a className={styles.link}>
-                            Learn about Collection on ikigai
+                            Read on the Ikigai Editorial
                         </a>
                     </Link>
                 </div>
