@@ -16,7 +16,7 @@ const Artists = ({ scrollToRef }: ArtistsProps) => (
             <div className={styles.wrap}>
                 <div className={styles.head}>
                     <div className={cn("h1", styles.title)}>
-                        Ikigai Labs XYZ Art Collective 2024.
+                        Ikigai Labs XYZ Art Collective 2024. Season One.
                     </div>
                     <Link href="/discover/ranking">
                         <a className={styles.link}>
