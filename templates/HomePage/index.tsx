@@ -1,6 +1,5 @@
 import Layout from "@/components/Layout";
 import Main from "./Main";
-import Hot from "./Hot";
 import Dream from "./Dream";
 import Collections from "./Collections";
 import Auctions from "@/components/Auctions";
@@ -13,7 +12,6 @@ const HomePage = () => {
     return (
         <Layout layoutNoOverflow noRegistration>
             <Main />
-            <Hot />
             <Dream />
             <Collections />
             <Auctions items={auctions} />
