@@ -1,9 +1,9 @@
 export const footerNavigation = [
     {
-        title: "ikigai.",
+        title: "IKIGAI",
         menu: [
             {
-                title: "Discover",
+                title: "Collect",
                 url: "/discover",
             },
             {
@@ -11,30 +11,30 @@ export const footerNavigation = [
                 url: "/create",
             },
             {
-                title: "How it work",
+                title: "Curate",
                 url: "/blog/detail",
             },
         ],
     },
     {
-        title: "INFO",
+        title: "LABS",
         menu: [
             {
                 title: "Feed",
                 url: "/feed",
             },
             {
-                title: "Help center",
+                title: "Guide",
                 url: "/help-center",
             },
             {
-                title: "Blog",
+                title: "Edito",
                 url: "/blog",
             },
         ],
     },
     {
-        title: "SOCIAL",
+        title: "XYZ",
         menu: [
             {
                 title: "Instagram",

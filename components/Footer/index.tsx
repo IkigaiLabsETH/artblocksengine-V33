@@ -13,7 +13,7 @@ const Footer = ({}: FooterProps) => (
         <div className={styles.body}>
             <div className={styles.details}>
                 <Logo className={styles.logo} />
-                <div className={styles.info}>Powered by ArtBlocks Engine.</div>
+                <div className={styles.info}>The ArtBlocks Engine on 🐻⛓️</div>
             </div>
             <div className={styles.group}>
                 {footerNavigation.map((item, index) => (
@@ -50,7 +50,7 @@ const Footer = ({}: FooterProps) => (
         </div>
         <div className={styles.foot}>
             <div className={styles.copyright}>
-                Copyright © 2024 Ikigai Labs XYZ. Made with ❤️ in Paris. Designed in California.
+                © 2024 Ikigai Labs XYZ. Made with ❤️ in USA. Designed in Paris.
             </div>
             <div className={styles.cookies}>
                 We use cookies for good vibes only.
