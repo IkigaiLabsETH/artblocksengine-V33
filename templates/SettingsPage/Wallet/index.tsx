@@ -20,7 +20,7 @@ const Wallet = ({}: WalletProps) => (
             <div className={styles.details}>
                 <div className={styles.code}>
                     <span className={styles.desktop}>
-                        0x1e862Be555a66Ea69....533B
+                        livethelifetv.eth
                     </span>
                     <span className={styles.tablet}>0x1e862Be5....533B</span>
                     <span className={styles.mobile}>0x1e...533B</span>
