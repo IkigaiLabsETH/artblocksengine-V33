@@ -11,7 +11,7 @@ export const blog = [
         url: "/blog/detail",
     },
     {
-        title: "Introducing ikigaiOS the operating system for web3.",
+        title: "Living The Good Life.",
         content:
             "Web3 is the next evolution of the internet built on open infrastructure where information, code, and objects are free to travel.",
         image: "/images/blog-pic-2.jpg",

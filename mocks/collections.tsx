@@ -38,7 +38,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
+        title: "Live The Life",
         login: "livethelifetv",
         price: "2.4 ETH",
         avatar: "/images/artists/artist-3.jpg",
@@ -63,7 +63,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
+        title: "Degen Vibes",
         login: "livethelifetv",
         price: "5.4 ETH",
         avatar: "/images/artists/artist-4.jpg",
@@ -119,7 +119,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
+        title: "Living The Dream",
         login: "livethelifetv",
         price: "2.4 ETH",
         avatar: "/images/artists/artist-3.jpg",
@@ -144,7 +144,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "Beyond the Dream",
+        title: "The Good Life",
         login: "livethelifetv",
         price: "5.4 ETH",
         avatar: "/images/artists/artist-4.jpg",
