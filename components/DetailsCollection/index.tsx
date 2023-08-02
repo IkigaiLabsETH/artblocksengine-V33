@@ -18,7 +18,7 @@ const Details = ({ details }: DetailsProps) => {
                 <div className={styles.box}>
                     <div className={cn("h2", styles.user)}>Good Vibes</div>
                     <div className={styles.line}>
-                        <div className={styles.category}>CUTE</div>
+                        <div className={styles.category}>GVO</div>
                         <div className={styles.code}>
                             0xE5A1....D0306
                             <button className={styles.copy}>
@@ -53,10 +53,7 @@ const Details = ({ details }: DetailsProps) => {
             <div className={styles.foot}>
                 <div className={styles.stage}>Description</div>
                 <div className={styles.content}>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey.
+                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
                 </div>
             </div>
         </div>

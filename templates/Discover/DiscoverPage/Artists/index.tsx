@@ -25,10 +25,7 @@ const Artists = ({ scrollToRef }: ArtistsProps) => (
                     </Link>
                 </div>
                 <div className={styles.content}>
-                    We are laying the groundwork for web3 — the next generation
-                    of the internet full of limitless possibilities. Join the
-                    millions of creators, collectors, and curators who are on
-                    this journey with you.
+                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
                 </div>
             </div>
         </div>

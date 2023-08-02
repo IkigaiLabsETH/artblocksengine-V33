@@ -33,25 +33,16 @@ const Article = ({}: ArticleProps) => (
                 travel.
             </h5>
             <p>
-                We are laying the groundwork for web3 — the next generation of
-                the internet full of limitless possibilities. Join the millions
-                of creators, collectors, and curators who are on this journey
-                with you.
+                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
             </p>
             <p>
-                Ratione earum minus quia consectetur debitis magnam. Ex nemo
-                maiores reiciendis distinctio. Cupiditate nihil doloribus
-                repellat voluptatem.
+            Art Blocks Engine allows the generative NFT minting technology used by artists at Art Blocks to be integrated with Ikigai Labs XYZ. Engine allows to release generative outputs using AB smart contracts and rendering infrastructure resulting in Ikigai Labs XYZ generative projects. 
             </p>
             <p>
-                Et id possimus harum ipsa eum odit labore. Eligendi repellat
-                impedit eaque corporis dolor ipsam vero. Vitae beatae aperiam
-                consequatur consequatur praesentium minus sequi magni.
+            We will own our smart contracts and can use them to release new gen art series. We will do a collab with https://journal.artfora.com/ so that we can offer plotter prints. Time to reach out to info@artblocks.io Ikigai Labs XYZ may soon launch a Dutch auction format.
             </p>
             <p>
-                Et neque dolor velit aliquid earum reiciendis sequi harum.
-                Laudantium et doloremque deleniti quaerat. Dolorem molestias
-                doloribus. Non non laboriosam ut assumenda vel aut sequi.
+            The sale will be conducted entirely on-chain via Ikigai Labs. It will feature an exclusive series of 99 unique artworks that build LTL's early forays into algorithmic art. The integration of the Art Blocks Engine is a new avenue for generative artists to bring primary market works to sale. 
             </p>
         </div>
         <div className={styles.photo}>
@@ -63,11 +54,9 @@ const Article = ({}: ArticleProps) => (
             />
         </div>
         <div className={cn("content", styles.content)}>
-            <h3>Introducing the operating system for web3.</h3>
+            <h3>The Art Blocks Engine is Pure Bliss.</h3>
             <h5>
-                Web3 is the next evolution of the internet built on open
-                infrastructure where information, code, and objects are free to
-                travel.
+            The Gen Art Program will highlight artists. Ikigai Labs will explore Dutch auctions. This method, which has been used by Art Blocks since its inception in 2021, starts at a fixed initial price and decreases at set increments until the first bid is placed. The ceiling price is set at x ETH. The format is perfect for price discovery. 
             </h5>
             <figure>
                 <Image
@@ -78,25 +67,16 @@ const Article = ({}: ArticleProps) => (
                 />
             </figure>
             <p>
-                We are laying the groundwork for web3 — the next generation of
-                the internet full of limitless possibilities. Join the millions
-                of creators, collectors, and curators who are on this journey
-                with you.
+                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
             </p>
             <p>
-                Ratione earum minus quia consectetur debitis magnam. Ex nemo
-                maiores reiciendis distinctio. Cupiditate nihil doloribus
-                repellat voluptatem.
+            Several Web3 platforms have experimented with the Dutch auction format. Most recently, the NFT marketplace Foundation announced a dynamic pricing feature for NFTs that utilizes the method to better reflect market sentiment and remove the guesswork when it comes to an artist pricing their pieces.
             </p>
             <p>
-                Et id possimus harum ipsa eum odit labore. Eligendi repellat
-                impedit eaque corporis dolor ipsam vero. Vitae beatae aperiam
-                consequatur consequatur praesentium minus sequi magni.
+            Several Web3 platforms have experimented with the Dutch auction format. Most recently, the NFT marketplace Foundation announced a dynamic pricing feature for NFTs that utilizes the method to better reflect market sentiment and remove the guesswork when it comes to an artist pricing their pieces.
             </p>
             <p>
-                Et neque dolor velit aliquid earum reiciendis sequi harum.
-                Laudantium et doloremque deleniti quaerat. Dolorem molestias
-                doloribus. Non non laboriosam ut assumenda vel aut sequi.
+            Several Web3 platforms have experimented with the Dutch auction format. Most recently, the NFT marketplace Foundation announced a dynamic pricing feature for NFTs that utilizes the method to better reflect market sentiment and remove the guesswork when it comes to an artist pricing their pieces.
             </p>
             <ul>
                 <li>Connect your wallet to ikigai</li>
