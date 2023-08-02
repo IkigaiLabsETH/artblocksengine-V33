@@ -25,7 +25,7 @@ const Preview = ({}: PreviewProps) => (
             <div className={styles.category}>CUTE</div>
         </div>
         <div className={styles.head}>
-            <div className={cn("h4", styles.subtitle)}>Cute Planet</div>
+            <div className={cn("h4", styles.subtitle)}>Good Vibes</div>
             <div className={styles.price}>0 NFT</div>
         </div>
     </>

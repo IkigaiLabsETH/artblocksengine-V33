@@ -30,7 +30,7 @@ const Upload = ({ title }: UploadProps) => {
                         src={objectURL}
                         layout="fill"
                         objectFit="cover"
-                        alt="Cute planet"
+                        alt="Good Vibes"
                     />
                 ) : (
                     <>

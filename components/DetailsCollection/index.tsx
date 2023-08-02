@@ -16,7 +16,7 @@ const Details = ({ details }: DetailsProps) => {
         <div className={styles.details}>
             <div className={styles.head}>
                 <div className={styles.box}>
-                    <div className={cn("h2", styles.user)}>Cute Planet</div>
+                    <div className={cn("h2", styles.user)}>Good Vibes</div>
                     <div className={styles.line}>
                         <div className={styles.category}>CUTE</div>
                         <div className={styles.code}>
