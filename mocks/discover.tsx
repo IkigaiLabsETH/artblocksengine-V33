@@ -1,27 +1,27 @@
 export const discover = [
     {
-        title: "D-0-G",
+        title: "LTL",
         image: "/images/main-slide-1.jpg",
         avatar: "/images/artists/artist-1.jpg",
         login: "livethelifetv",
         time: 20,
     },
     {
-        title: "Cute Dog",
+        title: "LTL",
         image: "/images/main-slide-2.jpg",
         avatar: "/images/artists/artist-2.jpg",
         login: "delsaux",
         time: 16,
     },
     {
-        title: "D-0-G",
+        title: "LTL",
         image: "/images/main-slide-1.jpg",
         avatar: "/images/artists/artist-1.jpg",
         login: "livethelifetv",
         time: 24,
     },
     {
-        title: "Cute Dog",
+        title: "LTL",
         image: "/images/main-slide-2.jpg",
         avatar: "/images/artists/artist-2.jpg",
         login: "delsaux",

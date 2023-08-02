@@ -112,7 +112,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                             ))}
                         </div>
                         <div className={cn("h4", styles.info)}>
-                            Download app
+                            Read editorial
                         </div>
                         <div className={styles.btns}>
                             <a
@@ -121,7 +121,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                <span>apple store</span>
+                                <span>live the life</span>
                                 <Icon name="apple" />
                             </a>
                             <a
@@ -130,7 +130,7 @@ const Menu = ({ classBurger, resultSearch }: MenuProps) => {
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                <span>google play</span>
+                                <span>good vibes</span>
                                 <Icon name="google-play" />
                             </a>
                         </div>
