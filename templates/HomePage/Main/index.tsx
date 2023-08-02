@@ -46,8 +46,7 @@ const Main = ({}: MainProps) => (
             </div>
             <div className={styles.col}>
                 <div className={styles.content}>
-                   Life is not fungible. We’re all an ERC-721. Built a few successful businesses 
-                   and is now living the good life. Find Ikigai.
+                   Life is not fungible. We’re all an ERC-721. Now living the life. Finding Ikigai tbh
                 </div>
                 <Link href="/discover">
                     <a className={cn("button-empty", styles.search)}>
