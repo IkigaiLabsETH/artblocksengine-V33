@@ -10,7 +10,7 @@ export const discover = [
         title: "Cute Dog",
         image: "/images/main-slide-2.jpg",
         avatar: "/images/artists/artist-2.jpg",
-        login: "moyoshiro",
+        login: "delsaux",
         time: 16,
     },
     {
@@ -24,7 +24,7 @@ export const discover = [
         title: "Cute Dog",
         image: "/images/main-slide-2.jpg",
         avatar: "/images/artists/artist-2.jpg",
-        login: "moyoshiro",
+        login: "delsaux",
         time: 16,
     },
 ];

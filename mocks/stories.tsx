@@ -18,7 +18,7 @@ export const stories = [
 export const storiesGallery = [
     {
         author: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         avatar: "/images/artists/artist-3.jpg",
         gallery: [
             "/images/story-3.jpg",

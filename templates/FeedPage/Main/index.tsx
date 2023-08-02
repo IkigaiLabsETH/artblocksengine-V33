@@ -29,7 +29,7 @@ const list = [
         image: "/images/auction-pic-2.jpg",
         photo: "/images/cute-planet.jpg",
         category: "ESCP",
-        login: "moyoshiro",
+        login: "delsaux",
         avatar: "/images/artists/artist-5.jpg",
         color: "#DBFF73",
         url: "/collection",

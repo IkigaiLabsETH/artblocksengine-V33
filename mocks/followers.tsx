@@ -19,7 +19,7 @@ export const followers = [
     },
     {
         name: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
         follow: false,
@@ -64,7 +64,7 @@ export const followers = [
     },
     {
         name: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
         follow: false,
@@ -109,7 +109,7 @@ export const followers = [
     },
     {
         name: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         avatar: "/images/artists/artist-3.jpg",
         crypto: "32 NFTs",
         follow: false,

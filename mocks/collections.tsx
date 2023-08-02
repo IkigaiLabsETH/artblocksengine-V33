@@ -350,7 +350,7 @@ export const activityCollections = [
     },
     {
         title: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         price: "2.8 ETH",
         avatar: "/images/artists/artist-2.jpg",
         images: [
@@ -397,7 +397,7 @@ export const activityCollections = [
     },
     {
         title: "Good Vibes",
-        login: "moyoshiro",
+        login: "delsaux",
         price: "0.3 ETH",
         avatar: "/images/artists/artist-4.jpg",
         images: [

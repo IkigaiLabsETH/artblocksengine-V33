@@ -15,7 +15,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@moyoshiro</span> followed you
+                        <span>@delsaux</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-2.jpg",
@@ -70,7 +70,7 @@ export const notifications = [
             {
                 content: (
                     <>
-                        <span>@moyoshiro</span> followed you
+                        <span>@delsaux</span> followed you
                     </>
                 ),
                 avatar: "/images/artists/artist-2.jpg",
