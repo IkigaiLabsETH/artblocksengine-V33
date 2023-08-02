@@ -17,15 +17,15 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <meta
-                        content="Epic NFT Marketplace UI Design Kit"
-                        name="ikigai v.2 - NFT Marketplace UI Kit"
+                        content="ikigai v.33 powered by Art Blocks Engine"
+                        name="ikigai v33"
                     />
                     <meta
-                        content="ikigai v.2 - NFT Marketplace UI Kit"
+                        content="ikigai v.33 powered by Art Blocks Engine"
                         property="og:title"
                     />
                     <meta
-                        content="NFT Marketplace"
+                        content="ikigai v.33 powered by Art Blocks Engine"
                         property="og:description"
                     />
                     <meta
@@ -38,14 +38,14 @@ class MyDocument extends Document {
                     />
                     <meta
                         property="og:site_name"
-                        content="NFT Marketplace"
+                        content="ikigai v.33 powered by Art Blocks Engine"
                     />
                     <meta
-                        content="NFT Marketplace"
+                        content="ikigai v.33 powered by Art Blocks Engine"
                         property="twitter:title"
                     />
                     <meta
-                        content="NFT Marketplace"
+                        content="ikigai v.33 powered by Art Blocks Engine"
                         property="twitter:description"
                     />
                     <meta
