@@ -5,7 +5,6 @@ import Dream from "./Dream";
 import Collections from "./Collections";
 import Auctions from "@/components/Auctions";
 import Spotlight from "./Spotlight";
-import Creativity from "./Creativity";
 import Newsletter from "@/components/Newsletter";
 
 import { auctions } from "@/mocks/auctions";
@@ -19,7 +18,6 @@ const HomePage = () => {
             <Collections />
             <Auctions items={auctions} />
             <Spotlight />
-            // <Creativity />
             <Newsletter />
         </Layout>
     );
