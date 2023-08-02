@@ -40,7 +40,7 @@ export const footerNavigation = [
                 title: "Instagram",
                 icon: "instagram",
                 external: true,
-                url: "https://www.instagram.comlivethelife.tv/",
+                url: "https://www.instagram.com/livethelife.tv/",
             },
             {
                 title: "Twitter",
