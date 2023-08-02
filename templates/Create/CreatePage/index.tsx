@@ -17,7 +17,7 @@ const CreatPage = () => {
                         </div>
                         <Arrow className={styles.arrow} />
                         <div className={styles.content}>
-                        Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
+                        Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks does the magic in the backend.
                         </div>
                     </>
                 }
