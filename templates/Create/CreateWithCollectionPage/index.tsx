@@ -8,7 +8,7 @@ import Image from "@/components/Image";
 
 const list = [
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         price: "4 NFT",
         image: "/images/cute-planet.jpg",
         url: "/collection",

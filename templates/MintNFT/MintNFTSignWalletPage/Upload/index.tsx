@@ -28,7 +28,7 @@ const Upload = ({}: UploadProps) => {
                     />
                 </div>
                 <div className={styles.wrap}>
-                    <div className={styles.subtitle}>LiveTheLife</div>
+                    <div className={styles.subtitle}>Cute Planet</div>
                     <div className={styles.price}>12 NFTs</div>
                 </div>
                 <div className={styles.lines}></div>

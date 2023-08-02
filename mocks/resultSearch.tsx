@@ -3,7 +3,7 @@ export const resultSearch = [
         title: "NFTs",
         items: [
             {
-                title: "LiveTheLife",
+                title: "Cute Planet",
                 buy: "12.29 ETH",
                 image: "/images/result-pic-1.jpg",
                 url: "/nft",

@@ -1,6 +1,6 @@
 export const curatedCollections = [
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -81,7 +81,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -162,7 +162,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -243,7 +243,7 @@ export const curatedCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "tranmautritam",
         price: "1.0 ETH",
         avatar: "/images/artists/artist-1.jpg",
@@ -349,7 +349,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "moyoshiro",
         price: "2.8 ETH",
         avatar: "/images/artists/artist-2.jpg",
@@ -370,7 +370,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "Aloha",
         price: "4.9 ETH",
         avatar: "/images/artists/artist-3.jpg",
@@ -396,7 +396,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "moyoshiro",
         price: "0.3 ETH",
         avatar: "/images/artists/artist-4.jpg",
@@ -433,7 +433,7 @@ export const activityCollections = [
         url: "/collection",
     },
     {
-        title: "LiveTheLife",
+        title: "Cute Planet",
         login: "randomdash",
         price: "14.5 ETH",
         avatar: "/images/artists/artist-6.jpg",
