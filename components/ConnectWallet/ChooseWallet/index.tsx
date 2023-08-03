@@ -4,7 +4,7 @@ import styles from "./ChooseWallet.module.sass";
 import Icon from "@/components/Icon";
 import Image from "@/components/Image";
 
-const tabs = ["Ethereum", "Flow", "Solana", "Polygon"];
+const tabs = ["Ethereum", "Tezos", "Berachain", "Arbitrum", "Polygon", "Solana"];
 
 const wallets = [
     {
