@@ -7,8 +7,8 @@
 
 # testing
 /coverage
-/api/backend
-/components/AbEngine
+/.api/backend
+/.components/AbEngine
 
 # next.js
 /.next/
