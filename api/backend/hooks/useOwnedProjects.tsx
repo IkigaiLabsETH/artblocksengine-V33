@@ -1,5 +1,5 @@
 import { useQuery, gql } from "@apollo/client"
-import { PROJECTS_PER_PAGE } from "config"
+import { PROJECTS_PER_PAGE } from "../config"
 import { OrderDirection } from "../utils/types"
 import { getConfiguredContractAddresses } from "../utils/contractInfoHelper"
 

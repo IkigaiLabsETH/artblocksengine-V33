@@ -1,5 +1,5 @@
 import { useQuery, gql } from "@apollo/client"
-import { TOKENS_PER_PAGE } from "config"
+import { TOKENS_PER_PAGE } from "../config"
 import { OrderDirection } from "../utils/types"
 
 interface TokensQueryParams {
