@@ -1,5 +1,5 @@
 import { useQuery, gql } from "@apollo/client"
-import { getConfiguredContractAddresses } from "../utils/contractInfoHelper"
+import { getConfiguredContractAddresses } from "../../../src/utils/contractInfoHelper"
 
 const countOwnedProjectsQuery = (walletAddress: string) => `
   query GetProjects {

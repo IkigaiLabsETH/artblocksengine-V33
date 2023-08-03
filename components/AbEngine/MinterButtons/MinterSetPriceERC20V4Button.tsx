@@ -10,7 +10,7 @@ import {
 import { BigNumber } from "ethers"
 import { Box, Typography, Modal } from "@mui/material"
 import { MULTIPLY_GAS_LIMIT } from "api/backend/config"
-import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/numbers"
+import { multiplyBigNumberByFloat, formatEtherFixed } from "src/utils/numbers"
 import MinterSetPriceERC20V4ABI from "src/abi/V3/MinterSetPriceERC20V4.json"
 import TokenView from "components/AbEngine/TokenView"
 import useWindowSize from "api/backend/hooks/useWindowSize"

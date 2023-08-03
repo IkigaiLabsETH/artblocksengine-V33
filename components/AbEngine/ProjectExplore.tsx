@@ -10,8 +10,8 @@ import Alert from "@mui/material/Alert"
 import ButtonBase from "@mui/material/ButtonBase"
 import CloseIcon from "@mui/icons-material/Close"
 import Loading from "components/AbEngine/Loading"
-import { Project } from "api/backend/utils/types"
-import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import { Project } from "src/utils/types"
+import { parseAspectRatio } from "src/utils/scriptJSON"
 import useGeneratorPreview from "api/backend/hooks/useGeneratorPreview"
 
 interface Props {

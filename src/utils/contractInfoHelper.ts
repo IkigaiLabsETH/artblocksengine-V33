@@ -1,4 +1,4 @@
-import { CONTRACT_INFO } from "config"
+import { CONTRACT_INFO } from "../../api/backend/config"
 
 export const getContractConfigByAddress = (contractAddress: string) => {
    return CONTRACT_INFO.find(

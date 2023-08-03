@@ -1,5 +1,5 @@
 import useTheme from "@mui/material/styles/useTheme"
-import { OrderDirection, Token } from "api/backend/utils/types"
+import { OrderDirection, Token } from "src/utils/types"
 import {
   Grid,
   Link,

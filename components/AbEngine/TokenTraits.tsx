@@ -1,4 +1,4 @@
-import { Trait } from "api/backend/utils/types"
+import { Trait } from "src/utils/types"
 import {
   Typography,
   Alert,

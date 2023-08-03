@@ -10,7 +10,7 @@ import {
 } from "@mui/material"
 import useTheme from "@mui/material/styles/useTheme"
 import { PROJECTS_PER_PAGE } from "api/backend/config"
-import { OrderDirection, Project } from "api/backend/utils/types"
+import { OrderDirection, Project } from "src/utils/types"
 import ProjectPreview from "components/AbEngine/ProjectPreview"
 import Loading from "components/AbEngine/Loading"
 import useProjects from "api/backend/hooks/useProjects"

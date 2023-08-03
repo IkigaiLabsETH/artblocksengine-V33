@@ -7,7 +7,7 @@ import {
 import Loading from "components/AbEngine/Loading"
 import TokenImage from "components/AbEngine/TokenImage"
 import useInterval from "api/backend/hooks/useInterval"
-import { getContractConfigByAddress } from "api/backend/utils/contractInfoHelper";
+import { getContractConfigByAddress } from "src/utils/contractInfoHelper";
 
 interface Props {
   contractAddress: string

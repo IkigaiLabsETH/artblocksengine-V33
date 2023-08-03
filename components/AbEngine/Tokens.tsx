@@ -1,6 +1,6 @@
 import useTheme from "@mui/material/styles/useTheme"
 import { TOKENS_PER_PAGE } from "api/backend/config"
-import { OrderDirection, Token } from "api/backend/utils/types"
+import { OrderDirection, Token } from "src/utils/types"
 import {
   Grid,
   Link,

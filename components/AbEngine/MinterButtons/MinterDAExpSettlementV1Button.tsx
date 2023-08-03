@@ -3,7 +3,7 @@ import { usePrepareContractWrite, useContractWrite, useWaitForTransaction } from
 import { BigNumber } from "ethers"
 import { Box, Typography, Modal } from "@mui/material"
 import { MULTIPLY_GAS_LIMIT } from "api/backend/config"
-import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/numbers"
+import { multiplyBigNumberByFloat, formatEtherFixed } from "src/utils/numbers"
 import MinterDAExpSettlementV1ABI from "src/abi/V3/MinterDAExpSettlementV1.json"
 import TokenView from "components/AbEngine/TokenView"
 import useWindowSize from "api/backend/hooks/useWindowSize"

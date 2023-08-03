@@ -2,7 +2,7 @@ import { useState } from "react"
 import { useContractRead } from "wagmi"
 import { BigNumber } from "ethers"
 import MinterFilterV1ABI from "src/abi/V3/MinterFilterV1.json"
-import { getMintingInterface } from "api/backend/utils/getMintingInterface"
+import { getMintingInterface } from "src/utils/getMintingInterface"
 
 interface Props {
   contractVersion: string,

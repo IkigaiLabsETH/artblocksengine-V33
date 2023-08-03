@@ -1,5 +1,5 @@
 import moment from "moment"
-import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import { parseAspectRatio } from "src/utils/scriptJSON"
 import {
   Box,
   Typography,
@@ -19,7 +19,7 @@ import Loading from "components/AbEngine/Loading"
 import TokenView from "components/AbEngine/TokenView"
 import useToken from "api/backend/hooks/useToken"
 import useWindowSize from "api/backend/hooks/useWindowSize"
-import { getContractConfigByAddress } from "api/backend/utils/contractInfoHelper";
+import { getContractConfigByAddress } from "src/utils/contractInfoHelper";
 
 interface Props {
   contractAddress: string

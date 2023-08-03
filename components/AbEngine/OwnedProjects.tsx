@@ -10,12 +10,12 @@ import {
   Link
 } from "@mui/material"
 import { PROJECTS_PER_PAGE } from "api/backend/config"
-import { OrderDirection, Project } from "api/backend/utils/types"
+import { OrderDirection, Project } from "src/utils/types"
 import Loading from "components/AbEngine/Loading"
 import OwnedTokens from "components/AbEngine/OwnedTokens"
 import useOwnedProjects from "api/backend/hooks/useOwnedProjects"
 import useCountOwnedProjects from "api/backend/hooks/useCountOwnedProjects"
-import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import { parseAspectRatio } from "src/utils/scriptJSON"
 
 interface Props {
   walletAddress: string

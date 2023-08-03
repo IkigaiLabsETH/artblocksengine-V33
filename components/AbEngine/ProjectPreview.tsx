@@ -3,8 +3,8 @@ import {
   Typography,
   Link
 } from "@mui/material"
-import { Project } from "api/backend/utils/types"
-import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import { Project } from "src/utils/types"
+import { parseAspectRatio } from "src/utils/scriptJSON"
 import Collapsible from "components/AbEngine/Collapsible"
 import ProjectDate from "components/AbEngine/ProjectDate"
 import TokenView from "components/AbEngine/TokenView"

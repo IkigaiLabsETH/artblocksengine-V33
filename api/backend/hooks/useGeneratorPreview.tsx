@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import axios from 'axios'
-import { Project } from '../utils/types'
-import { getContractConfigByAddress } from "../utils/contractInfoHelper";
+import { Project } from '../../../src/utils/types'
+import { getContractConfigByAddress } from "../../../src/utils/contractInfoHelper";
 
 interface TokenData {
   tokenId: number

@@ -7,7 +7,7 @@ import {
   Modal
 } from "@mui/material"
 import { MULTIPLY_GAS_LIMIT } from "api/backend/config"
-import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/numbers"
+import { multiplyBigNumberByFloat, formatEtherFixed } from "src/utils/numbers"
 import MinterMerkleV5ABI from "src/abi/V3/MinterMerkleV5.json"
 import TokenView from "components/AbEngine/TokenView"
 import useWindowSize from "api/backend/hooks/useWindowSize"

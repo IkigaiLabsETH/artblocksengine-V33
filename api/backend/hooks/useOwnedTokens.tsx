@@ -1,6 +1,6 @@
 import { useQuery, gql } from "@apollo/client"
 import { TOKENS_PER_PAGE } from "../config"
-import { OrderDirection } from "../utils/types"
+import { OrderDirection } from "../../../src/utils/types"
 
 interface Params {
   first?: number
