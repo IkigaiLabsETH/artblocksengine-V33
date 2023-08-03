@@ -21,7 +21,7 @@ const ProjectStatusBadge = ({ complete, paused, startTime }: Props) => {
         startDate?.isAfter() ?
         <Chip
           label="Upcoming"
-          color="upcoming"
+          // color="upcoming"
           size="small"
           sx={{ color: 'white', marginRight: 2, }}
         />

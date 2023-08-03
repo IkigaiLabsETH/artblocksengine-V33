@@ -1,10 +1,10 @@
-import GenArt721MinterInterface from "components/MinterInterfaces/GenArt721MinterInterface"
-import MinterSetPriceV4Interface from "components/MinterInterfaces/MinterSetPriceV4Interface"
-import MinterDAExpV4Interface from "components/MinterInterfaces/MinterDAExpV4Interface"
-import MinterMerkleV5Interface from "components/MinterInterfaces/MinterMerkleV5Interface"
-import MinterHolderV4Interface from "components/MinterInterfaces/MinterHolderV4Interface"
-import MinterSetPriceERC20V4Interface from "components/MinterInterfaces/MinterSetPriceERC20V4Interface"
-import MinterDAExpSettlementV1Interface from "components/MinterInterfaces/MinterDAExpSettlementV1Interface"
+import GenArt721MinterInterface from "components/AbEngine/MinterInterfaces/GenArt721MinterInterface"
+import MinterSetPriceV4Interface from "components/AbEngine/MinterInterfaces/MinterSetPriceV4Interface"
+import MinterDAExpV4Interface from "components/AbEngine/MinterInterfaces/MinterDAExpV4Interface"
+import MinterMerkleV5Interface from "components/AbEngine/MinterInterfaces/MinterMerkleV5Interface"
+import MinterHolderV4Interface from "components/AbEngine/MinterInterfaces/MinterHolderV4Interface"
+import MinterSetPriceERC20V4Interface from "components/AbEngine/MinterInterfaces/MinterSetPriceERC20V4Interface"
+import MinterDAExpSettlementV1Interface from "components/AbEngine/MinterInterfaces/MinterDAExpSettlementV1Interface"
 
 export const getMintingInterface = (contractVersion: string, minterType: string | null) => {
   if (contractVersion === "V2") {
