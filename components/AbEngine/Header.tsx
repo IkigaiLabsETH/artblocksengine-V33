@@ -12,7 +12,7 @@ import {
   ListItemText
 } from "@mui/material"
 import MenuIcon from "@mui/icons-material/Menu"
-import Connect from "components/Connect"
+import Connect from "components/AbEngine/Connect"
 import { useAccount } from "wagmi"
 
 let items = [

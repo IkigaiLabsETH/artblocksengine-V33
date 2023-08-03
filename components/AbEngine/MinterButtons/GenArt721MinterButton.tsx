@@ -14,9 +14,9 @@ import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/nu
 import TokenView from "components/AbEngine/TokenView"
 import useWindowSize from "api/backend/hooks/useWindowSize"
 import MintingButton from "components/AbEngine/MintingButton"
-import GenArt721MintV2ABI from "abi/V2/GenArt721MintV2.json"
-import GenArt721CoreV2ABI from "abi/V2/GenArt721CoreV2.json"
-import ERC20ABI from "abi/ERC20.json"
+import GenArt721MintV2ABI from "src/abi/V2/GenArt721MintV2.json"
+import GenArt721CoreV2ABI from "src/abi/V2/GenArt721CoreV2.json"
+import ERC20ABI from "src/abi/ERC20.json"
 
 interface Props {
   coreContractAddress: string,

@@ -4,10 +4,10 @@ import {
   Box,
   Typography
 } from "@mui/material"
-import Loading from "components/Loading"
-import TokenImage from "components/TokenImage"
-import useInterval from "hooks/useInterval"
-import { getContractConfigByAddress } from "utils/contractInfoHelper";
+import Loading from "components/AbEngine/Loading"
+import TokenImage from "components/AbEngine/TokenImage"
+import useInterval from "api/backend/hooks/useInterval"
+import { getContractConfigByAddress } from "api/backend/utils/contractInfoHelper";
 
 interface Props {
   contractAddress: string

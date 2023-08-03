@@ -1,6 +1,6 @@
 import axios from "axios"
 import { useState, useEffect } from "react"
-import { getContractConfigByAddress } from "utils/contractInfoHelper";
+import { getContractConfigByAddress } from "../utils/contractInfoHelper";
 
 const useTokenTraits = (contractAddress: string, tokenId: string) => {
   const [data, setData] = useState<any | null>(null)

@@ -1,4 +1,4 @@
-import { getContractConfigByAddress } from "utils/contractInfoHelper";
+import { getContractConfigByAddress } from "api/backend/utils/contractInfoHelper";
 
 interface Props {
   contractAddress: string

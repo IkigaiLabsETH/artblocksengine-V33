@@ -4,7 +4,7 @@ import {
   CircularProgress
 } from "@mui/material"
 import { Container } from "@mui/system"
-import useInterval from "hooks/useInterval"
+import useInterval from "api/backend/hooks/useInterval"
 
 const Loading = () => {
   const [waitTime, setWaitTime] = useState(0)

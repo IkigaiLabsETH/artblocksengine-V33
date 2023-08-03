@@ -3,11 +3,11 @@ import {
   Typography,
   Link
 } from "@mui/material"
-import { Project } from "utils/types"
-import { parseAspectRatio } from "utils/scriptJSON"
-import Collapsible from "components/Collapsible"
-import ProjectDate from "components/ProjectDate"
-import TokenView from "components/TokenView"
+import { Project } from "api/backend/utils/types"
+import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import Collapsible from "components/AbEngine/Collapsible"
+import ProjectDate from "components/AbEngine/ProjectDate"
+import TokenView from "components/AbEngine/TokenView"
 import ProjectStatusBadge from "./ProjectStatusBadge"
 
 interface Props {

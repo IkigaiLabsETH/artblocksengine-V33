@@ -3,8 +3,8 @@ import {
   Card,
   Link
 } from "@mui/material"
-import TokenImage from "components/TokenImage"
-import TokenLive from "components/TokenLive"
+import TokenImage from "components/AbEngine/TokenImage"
+import TokenLive from "components/AbEngine/TokenLive"
 
 interface Props {
   contractAddress: string

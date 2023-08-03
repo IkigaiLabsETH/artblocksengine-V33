@@ -1,5 +1,5 @@
 import moment from "moment"
-import { parseAspectRatio } from "utils/scriptJSON"
+import { parseAspectRatio } from "api/backend/utils/scriptJSON"
 import {
   Box,
   Typography,
@@ -13,13 +13,13 @@ import VisibilityIcon from "@mui/icons-material/Visibility"
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward"
 import ImageIcon from "@mui/icons-material/Image"
 import useTheme from "@mui/material/styles/useTheme"
-import TokenTraits from "components/TokenTraits"
-import Address from "components/Address"
-import Loading from "components/Loading"
-import TokenView from "components/TokenView"
-import useToken from "hooks/useToken"
-import useWindowSize from "hooks/useWindowSize"
-import { getContractConfigByAddress } from "utils/contractInfoHelper";
+import TokenTraits from "components/AbEngine/TokenTraits"
+import Address from "components/AbEngine/Address"
+import Loading from "components/AbEngine/Loading"
+import TokenView from "components/AbEngine/TokenView"
+import useToken from "api/backend/hooks/useToken"
+import useWindowSize from "api/backend/hooks/useWindowSize"
+import { getContractConfigByAddress } from "api/backend/utils/contractInfoHelper";
 
 interface Props {
   contractAddress: string

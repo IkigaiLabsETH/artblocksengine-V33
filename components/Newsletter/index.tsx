@@ -15,8 +15,10 @@ const Newsletter = ({}: NewsletterProps) => {
             <div className={styles.col}>
                 <div className={cn("h2", styles.title)}>Editorial</div>
                 <div className={styles.content}>
-                    All collections on Ikigai are
-                    creator-owned smart contracts. 
+                    Creator-owned smart contracts,
+                    Powered by ArtBlocks Engine,
+                    and Transient Labs Stories. &
+                    Obviously Thirdweb + Manifold.
                 </div>
                 <div className={styles.btns}>
                     <a

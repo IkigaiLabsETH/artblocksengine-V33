@@ -2,11 +2,11 @@ import { useState } from "react"
 import { useAccount, useContractReads } from "wagmi"
 import { BigNumber } from "ethers"
 import { Box } from "@mui/material"
-import GenArt721CoreV3_EngineABI from "abi/V3/GenArt721CoreV3_Engine.json"
-import MinterSetPriceERC20V4ABI from "abi/V3/MinterSetPriceERC20V4.json"
-import MintingProgress from "components/MintingProgress"
-import MintingPrice from "components/MintingPrice"
-import MinterSetPriceERC20V4Button from "components/MinterButtons/MinterSetPriceERC20V4Button"
+import GenArt721CoreV3_EngineABI from "src/abi/V3/GenArt721CoreV3_Engine.json"
+import MinterSetPriceERC20V4ABI from "src/abi/V3/MinterSetPriceERC20V4.json"
+import MintingProgress from "components/AbEngine/MintingProgress"
+import MintingPrice from "components/AbEngine/MintingPrice"
+import MinterSetPriceERC20V4Button from "components/AbEngine/MinterButtons/MinterSetPriceERC20V4Button"
 
 interface Props {
   coreContractAddress: string,

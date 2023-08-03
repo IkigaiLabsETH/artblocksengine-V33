@@ -9,10 +9,10 @@ import DialogTitle from "@mui/material/DialogTitle"
 import Alert from "@mui/material/Alert"
 import ButtonBase from "@mui/material/ButtonBase"
 import CloseIcon from "@mui/icons-material/Close"
-import Loading from "components/Loading"
-import { Project } from "utils/types"
-import { parseAspectRatio } from "utils/scriptJSON"
-import useGeneratorPreview from "hooks/useGeneratorPreview"
+import Loading from "components/AbEngine/Loading"
+import { Project } from "api/backend/utils/types"
+import { parseAspectRatio } from "api/backend/utils/scriptJSON"
+import useGeneratorPreview from "api/backend/hooks/useGeneratorPreview"
 
 interface Props {
   project: Project

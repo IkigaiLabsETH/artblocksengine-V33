@@ -9,13 +9,13 @@ import {
 } from "wagmi"
 import { BigNumber } from "ethers"
 import { Box, Typography, Modal } from "@mui/material"
-import { MULTIPLY_GAS_LIMIT } from "config"
-import { multiplyBigNumberByFloat, formatEtherFixed } from "utils/numbers"
-import MinterSetPriceERC20V4ABI from "abi/V3/MinterSetPriceERC20V4.json"
-import TokenView from "components/TokenView"
-import useWindowSize from "hooks/useWindowSize"
-import MintingButton from "components/MintingButton"
-import ERC20ABI from "../../abi/ERC20.json";
+import { MULTIPLY_GAS_LIMIT } from "api/backend/config"
+import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/numbers"
+import MinterSetPriceERC20V4ABI from "src/abi/V3/MinterSetPriceERC20V4.json"
+import TokenView from "components/AbEngine/TokenView"
+import useWindowSize from "api/backend/hooks/useWindowSize"
+import MintingButton from "components/AbEngine/MintingButton"
+import ERC20ABI from "src/abi/ERC20.json";
 
 interface Props {
   coreContractAddress: string,

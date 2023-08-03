@@ -1,4 +1,4 @@
-import { Trait } from "utils/types"
+import { Trait } from "api/backend/utils/types"
 import {
   Typography,
   Alert,
@@ -9,8 +9,8 @@ import {
   TableHead,
   TableRow
 } from "@mui/material"
-import Loading from "components/Loading"
-import useTokenTraits from "hooks/useTokenTraits"
+import Loading from "components/AbEngine/Loading"
+import useTokenTraits from "api/backend/hooks/useTokenTraits"
 
 interface Props {
   contractAddress: string

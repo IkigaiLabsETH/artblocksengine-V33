@@ -1,7 +1,7 @@
 import { useQuery, gql } from "@apollo/client"
 import { PROJECTS_PER_PAGE } from "config"
-import { OrderDirection } from "utils/types"
-import { getConfiguredContractAddresses } from "utils/contractInfoHelper";
+import { OrderDirection } from "../utils/types"
+import { getConfiguredContractAddresses } from "../utils/contractInfoHelper";
 
 interface ProjectsQueryParams {
   first?: number

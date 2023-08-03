@@ -3,13 +3,13 @@ import moment from "moment-timezone"
 import {useAccount, useBalance, useContractRead, useContractReads} from "wagmi"
 import { BigNumber } from "ethers"
 import { Box } from "@mui/material"
-import GenArt721CoreV3_EngineABI from "abi/V3/GenArt721CoreV3_Engine.json"
-import MinterDAExpSettlementV1ABI from "abi/V3/MinterDAExpSettlementV1.json"
-import MintingCountdown from "components/MintingCountdown"
-import MintingProgress from "components/MintingProgress"
-import MintingPrice from "components/MintingPrice"
-import MinterDAExpSettlementV1Button from "components/MinterButtons/MinterDAExpSettlementV1Button"
-import useCountOwnedTokens from "../../hooks/useCountOwnedTokens";
+import GenArt721CoreV3_EngineABI from "src/abi/V3/GenArt721CoreV3_Engine.json"
+import MinterDAExpSettlementV1ABI from "src/abi/V3/MinterDAExpSettlementV1.json"
+import MintingCountdown from "components/AbEngine/MintingCountdown"
+import MintingProgress from "components/AbEngine/MintingProgress"
+import MintingPrice from "components/AbEngine/MintingPrice"
+import MinterDAExpSettlementV1Button from "components/AbEngine/MinterButtons/MinterDAExpSettlementV1Button"
+import useCountOwnedTokens from "api/backend/hooks/useCountOwnedTokens";
 
 interface Props {
   coreContractAddress: string,

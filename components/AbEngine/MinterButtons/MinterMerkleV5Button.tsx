@@ -6,12 +6,12 @@ import {
   Typography,
   Modal
 } from "@mui/material"
-import { MULTIPLY_GAS_LIMIT } from "config"
-import { multiplyBigNumberByFloat, formatEtherFixed } from "utils/numbers"
-import MinterMerkleV5ABI from "abi/V3/MinterMerkleV5.json"
-import TokenView from "components/TokenView"
-import useWindowSize from "hooks/useWindowSize"
-import MintingButton from "components/MintingButton"
+import { MULTIPLY_GAS_LIMIT } from "api/backend/config"
+import { multiplyBigNumberByFloat, formatEtherFixed } from "api/backend/utils/numbers"
+import MinterMerkleV5ABI from "src/abi/V3/MinterMerkleV5.json"
+import TokenView from "components/AbEngine/TokenView"
+import useWindowSize from "api/backend/hooks/useWindowSize"
+import MintingButton from "components/AbEngine/MintingButton"
 
 interface Props {
   coreContractAddress: string,

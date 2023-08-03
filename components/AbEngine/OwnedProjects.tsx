@@ -9,13 +9,13 @@ import {
   Grid,
   Link
 } from "@mui/material"
-import { PROJECTS_PER_PAGE } from "config"
-import { OrderDirection, Project } from "utils/types"
-import Loading from "components/Loading"
-import OwnedTokens from "components/OwnedTokens"
-import useOwnedProjects from "hooks/useOwnedProjects"
-import useCountOwnedProjects from "hooks/useCountOwnedProjects"
-import { parseAspectRatio } from "utils/scriptJSON"
+import { PROJECTS_PER_PAGE } from "api/backend/config"
+import { OrderDirection, Project } from "api/backend/utils/types"
+import Loading from "components/AbEngine/Loading"
+import OwnedTokens from "components/AbEngine/OwnedTokens"
+import useOwnedProjects from "api/backend/hooks/useOwnedProjects"
+import useCountOwnedProjects from "api/backend/hooks/useCountOwnedProjects"
+import { parseAspectRatio } from "api/backend/utils/scriptJSON"
 
 interface Props {
   walletAddress: string

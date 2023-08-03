@@ -9,13 +9,13 @@ import {
   Grid
 } from "@mui/material"
 import useTheme from "@mui/material/styles/useTheme"
-import { PROJECTS_PER_PAGE } from "config"
-import { OrderDirection, Project } from "utils/types"
-import ProjectPreview from "components/ProjectPreview"
-import Loading from "components/Loading"
-import useProjects from "hooks/useProjects"
-import useWindowSize from "hooks/useWindowSize"
-import useCountProjects from "hooks/useCountProjects"
+import { PROJECTS_PER_PAGE } from "api/backend/config"
+import { OrderDirection, Project } from "api/backend/utils/types"
+import ProjectPreview from "components/AbEngine/ProjectPreview"
+import Loading from "components/AbEngine/Loading"
+import useProjects from "api/backend/hooks/useProjects"
+import useWindowSize from "api/backend/hooks/useWindowSize"
+import useCountProjects from "api/backend/hooks/useCountProjects"
 
 const Projects = () => {
   const theme = useTheme()

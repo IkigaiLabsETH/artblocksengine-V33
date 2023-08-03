@@ -8,7 +8,7 @@ import { mainnet, goerli } from 'wagmi/chains'
 import { infuraProvider } from "wagmi/providers/infura"
 import { publicProvider } from "wagmi/providers/public"
 import { ApolloClient, ApolloProvider, InMemoryCache } from "@apollo/client"
-import { GRAPHQL_URL, INFURA_KEY, EXPECTED_CHAIN_ID, WALLET_CONNECT_PROJECT_ID } from "config"
+import { GRAPHQL_URL, INFURA_KEY, EXPECTED_CHAIN_ID, WALLET_CONNECT_PROJECT_ID } from "api/backend/config"
 
 const client = new ApolloClient({
   uri: GRAPHQL_URL,
