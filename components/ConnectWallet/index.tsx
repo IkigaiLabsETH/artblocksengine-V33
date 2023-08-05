@@ -37,7 +37,7 @@ const ConnectWallet = ({ onClickLogo, onContinue }: ConnectWalletProps) => {
                 <div className={styles.info}>
                     {message
                         ? "Sign the message in your wallet to continue"
-                        : "Choose how you want to connect. There are several wallet providers."}
+                        : "Choose how you want to connect."}
                 </div>
             </div>
             <div className={styles.col}>
