@@ -54,7 +54,7 @@ const Details = ({ details }: DetailsProps) => {
             <div className={styles.foot}>
                 <div className={styles.stage}>Description</div>
                 <div className={styles.content}>
-                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend.
+                Art Blocks Engine to build on the momentum of generative minting. Our team can focus on storytelling, community, and culture. Art Blocks Engine does the magic in the backend. Each piece in this collection is a testament to the power of procedural generation, a form of digital alchemy where simple algorithms and parameters are transmuted into intricate, mesmerizing patterns. Drawing inspiration from the demoscene subculture and the generative works of composers like Mozart, this series pushes the boundaries of what is possible with code and creativity. Each artwork is not just a static image, but a snapshot of a dynamic system, a moment frozen in a sea of algorithmic potential. As we explore this series, remember that every swirl of color, every radiant line, and every intricate pattern is the result of a dance between randomness and rules, chaos and order.
                 </div>
             </div>
         </div>
