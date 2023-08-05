@@ -9,8 +9,8 @@ export const followers = [
         url: "/profile",
     },
     {
-        name: "Aloha",
-        login: "Aloha",
+        name: "LiveTheLife",
+        login: "livethelifetv",
         avatar: "/images/artists/artist-2.jpg",
         crypto: "4 NFTs",
         follow: false,

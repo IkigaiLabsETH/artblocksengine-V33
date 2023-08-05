@@ -26,7 +26,7 @@ export const resultSearch = [
                 url: "/collection",
             },
             {
-                title: "Flow Fields",
+                title: "32 Seconds",
                 login: "livethelifetv",
                 image: "/images/result-pic-1.jpg",
                 url: "/collection",
