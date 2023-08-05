@@ -17,8 +17,8 @@ const Newsletter = ({}: NewsletterProps) => {
                 <div className={styles.content}>
                     Creator-owned smart contracts,
                     Powered by ArtBlocks Engine,
-                    and Transient Labs Stories. &
-                    Obviously Thirdweb + Manifold.
+                    Transient Labs Story Contracts &
+                    the Thirdweb SDK + Manifold Studio.
                 </div>
                 <div className={styles.btns}>
                     <a
