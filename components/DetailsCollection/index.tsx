@@ -2,6 +2,7 @@ import cn from "classnames";
 import styles from "./DetailsCollection.module.sass";
 import Icon from "@/components/Icon";
 
+
 type DetailsType = {
     label: string;
     value: string;
