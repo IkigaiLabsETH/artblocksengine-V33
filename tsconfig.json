@@ -27,6 +27,6 @@
             "@/mocks/*": ["mocks/*"]
         }
     },
-    "include": ["src", "next-env.d.ts", "**/*.ts", "**/*.tsx"],
+    "include": ["src", "next-env.d.ts", "**/*.ts", "**/*.tsx", "util/checkBalance.js"],
     "exclude": ["node_modules"]
 }
