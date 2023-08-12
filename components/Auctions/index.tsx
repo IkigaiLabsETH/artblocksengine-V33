@@ -24,7 +24,7 @@ const Auctions = ({ color, items }: AuctionsProps) => (
         <div className={styles.col} style={{ backgroundColor: color }}>
             <div className={styles.wrap}>
                 <div className={cn("h1", styles.title)}>
-                    Auctions ending soon
+                    Live Auctions
                 </div>
                 <Link href="/discover">
                     <a

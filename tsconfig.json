@@ -24,7 +24,11 @@
             "@/hooks/*": ["hooks/*"],
             "@/types/*": ["types/*"],
             "@/constants/*": ["constants/*"],
-            "@/mocks/*": ["mocks/*"]
+            "@/mocks/*": ["mocks/*"],
+            "@/config/*": ["config/*"],
+            "@/lib/*": ["lib/*"],
+            "@/pages/*": ["pages/*"],
+            "@/public/*": ["public/*"]
         }
     },
     "include": ["src", "next-env.d.ts", "**/*.ts", "**/*.tsx", "util/checkBalance.js"],

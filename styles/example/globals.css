@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css?family=Gochi+Hand");
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#paper {
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+  height: 100%;
+  min-height: calc(100vh - 80px);
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  #paper {
+    padding-bottom: 75px;
+  }
+}
+
+@media (max-width: 480px) {
+  #paper {
+    padding-bottom: 100px;
+  }
+}
+
+#paper::before {
+  content: "";
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 40px;
+  background-color: rgba(255, 0, 0, 0.6);
+}
+
+@media (max-width: 480px) {
+  #paper::before {
+    left: 25px;
+  }
+}
+
+#pattern {
+  min-height: calc(100vh - 80px);
+  height: 100%;
+  background-image: repeating-linear-gradient(white 0px, white 24px, teal 25px);
+}
+
+#content {
+  padding-top: 6px;
+  padding-left: 56px;
+  padding-right: 16px;
+  line-height: 25px;
+  font-family: "Gochi Hand", serif;
+  font-size: 24px;
+  letter-spacing: 1px;
+  word-spacing: 5px;
+}
+
+@media (max-width: 480px) {
+  #content {
+    padding-left: 40px;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+.header > a {
+  float: left;
+  padding-right: 50px;
+}
+
+@media (max-width: 768px) {
+  .header > a {
+    float: inherit;
+    display: block;
+    margin: 7px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .header > #connectButton {
+    position: absolute;
+    top: 53px;
+    right: 30px;
+  }
+}
+
+.header > div {
+  float: right;
+  cursor: pointer;
+  color: Blue;
+}
+
+.footer {
+  position: absolute;
+  bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 70px);
+  font-size: 18px;
+}
+
+.footer > .left {
+  flex: 1;
+  text-align: left;
+}
+
+.footer > .center {
+  flex: 1;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .footer > .left > a {
+    display: block;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer {
+    margin-top: 25px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .footer > .left > a {
+    display: block;
+  }
+
+  .footer > .center > a {
+    /* display: block;     */
+  }
+}
+
+.footer > .right {
+  flex: 1;
+  text-align: right;
+}
+
+.left > a {
+  padding-right: 20px;
+}
+
+.center > a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.right > a {
+  padding-left: 20px;
+}
+
+.footer > .center > a > img {
+  height: 15px;
+}
