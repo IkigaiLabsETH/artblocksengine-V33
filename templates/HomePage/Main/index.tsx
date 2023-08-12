@@ -46,11 +46,11 @@ const Main = ({}: MainProps) => (
             </div>
             <div className={styles.col}>
                 <div className={styles.content}>
-                   Life is not fungible. We’re all an ERC-721.
+                   Life is not fungible.
                 </div>
                 <Link href="/discover">
                     <a className={cn("button-empty", styles.search)}>
-                        Find Your Ikigai
+                      We’re all an ERC-721
                     </a>
                 </Link>
             </div>
