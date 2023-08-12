@@ -6,10 +6,10 @@ import Details from "@/components/Details";
 
 const statistics = [
     {
-        label: "Created by",
-        avatar: "/images/avatar.jpg",
+        label: "Created by", // {project.artistName}
+        avatar: "/images/avatar.jpg", // 
         history: true,
-        title: "Ikigai",
+        title: "Ikigai", // {project.name}
         login: "livethelifetv",
     },
     {
@@ -24,12 +24,12 @@ const links = [
     {
         title: "View on Etherscan",
         icon: "country",
-        url: "https://livethelife.tv/",
+        url: "https://etherscan.io/", // https://etherscan.io/token/${contractAddress?.toLowerCase()}?a=${token.tokenId}
     },
     {
         title: "View metadata",
         icon: "link",
-        url: "https://livethelife.tv/",
+        url: "https://livethelife.tv/", // https://opensea.io/assets/ethereum/${contractAddress?.toLowerCase()}/${token.tokenId}
     },
     {
         title: "View on IPFS",
@@ -59,21 +59,21 @@ const PlaceBidPage = () => {
             <Description
                 image="/images/main-pic-1.jpg"
                 captionHide
-                title="Ikigai"
-                date="Minted on Aug 18, 2023"
+                title="Ikigai" // {token.project.artistName}
+                date="Minted on Aug 18, 2023" // Minted {moment.unix(token.createdAt).format("LL")}
                 statistics={statistics}
-                links={links}
+                links={links}  // {project.website}
                 addTags
                 provenance={provenance}
-                content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721."
+                content="CREATE / CURATE / COLLECT. Turn creators into curators & collectors into co-owners. It's the Renaissance but onchain! Life is not fungible. We’re all an ERC-721." // {project.description}
             >
                 <>
                     <Details
                         title="Place a bid"
                         bid="1.1 ETH"
                         price="$1,815.70"
-                        time={20}
-                        linkUrl="/article"
+                        time={20}                      // {startDate.isBefore() ? "Launched" : ""} {startDate.format("LL")}
+                        linkUrl="/article"             
                         linkTitle="Learn how to place a bid"
                     />
                     <Price
