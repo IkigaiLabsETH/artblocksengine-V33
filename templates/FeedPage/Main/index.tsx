@@ -46,7 +46,7 @@ const Main = ({}: MainProps) => (
         <div className={styles.row}>
             <div className={styles.wrap}>
                 <h1 className={cn("hero", styles.title)}>
-                    Curated <br></br>Artwork.
+                    ArtBlocks <br></br>Engine
                 </h1>
                 <Arrow className={styles.arrow} color="#DBFF73" />
             </div>
