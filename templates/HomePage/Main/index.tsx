@@ -41,16 +41,16 @@ const Main = ({}: MainProps) => (
     <>
         <div className={styles.row}>
             <div className={styles.col}>
-                <h1 className={cn("hero", styles.title)}>Curated GenArt 🐻⛓️</h1>
+                <h1 className={cn("hero", styles.title)}>Ikigai Labs</h1>
                 <Arrow className={styles.arrow} />
             </div>
             <div className={styles.col}>
                 <div className={styles.content}>
-                   Life is not fungible. We’re all an ERC-721. Finding Ikigai.
+                   Life is not fungible. We’re all an ERC-721.
                 </div>
                 <Link href="/discover">
                     <a className={cn("button-empty", styles.search)}>
-                        start your odyssey
+                        Find Your Ikigai
                     </a>
                 </Link>
             </div>
