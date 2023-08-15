@@ -1,3 +1,5 @@
+// RS How to replace the mock data with data from livethelife.tv TryGhost API
+
 export const blog = [
     {
         title: "The Metaverse Fine Art Gallery",
