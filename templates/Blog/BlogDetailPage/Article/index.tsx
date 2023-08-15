@@ -17,8 +17,8 @@ import Icon from "@/components/Icon";
 // });
 
 // const api = new GhostContentAPI({
-//    url: 'https://livethelifetv.ghost.io',
-//    key: '',
+//    url: 'https://edito.ghost.io',
+//    key: '440f3073c22cc18532712cbe6b',
 //    version: "v5.0"
 //  });
 
