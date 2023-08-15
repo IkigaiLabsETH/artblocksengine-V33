@@ -2,6 +2,27 @@ import cn from "classnames";
 import styles from "./Article.module.sass";
 import Image from "@/components/Image";
 import Icon from "@/components/Icon";
+// import GhostContentAPI from '@tryghost/content-api'
+// const {slugify} = require('@tryghost/string');
+// const slug = slugify('你好 👋!'); // slug === "ni-hao"
+
+// import {tags, readingTime} from '@tryghost/helpers'
+// // Outputs e.g. A 5 minute read.
+// posts.forEach((post) => {
+//    readingTime(post, {minute: 'A 1 minute read.', minutes: 'A % minute read.'});
+// });
+// Outputs e.g. Posted in: New Things, Releases, Features.
+// posts.forEach((post) => {
+//     tags(post, {prefix: 'Posted in: ', suffix: '.'});
+// });
+
+// const api = new GhostContentAPI({
+//    url: 'https://livethelifetv.ghost.io',
+//    key: '',
+//    version: "v5.0"
+//  });
+
+// DOCS https://ghost.org/docs/content-api/javascript/
 
 const socials = [
     {

@@ -5,6 +5,7 @@ module.exports = {
   darkMode: ["class"],
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    
     screens: {
       xs: "550px",
       sm: "640px",
@@ -79,6 +80,7 @@ module.exports = {
         "accordion-up": "accordion-up 0.2s ease-out",
       },
     },
+    
   },
   plugins: [require("tailwindcss-animate"), require("tailwindcss-safe-area")],
 };

@@ -4,6 +4,22 @@ import styles from "./Articles.module.sass";
 import Image from "@/components/Image";
 import Icon from "@/components/Icon";
 import Spinner from "@/components/Spinner";
+// import GhostContentAPI from '@tryghost/content-api'
+// const {slugify} = require('@tryghost/string');
+// const slug = slugify('你好 👋!'); // slug === "ni-hao"
+
+// import {tags, readingTime} from '@tryghost/helpers'
+// // Outputs e.g. A 5 minute read.
+// posts.forEach((post) => {
+//    readingTime(post, {minute: 'A 1 minute read.', minutes: 'A % minute read.'});
+// });
+// Outputs e.g. Posted in: New Things, Releases, Features.
+// posts.forEach((post) => {
+//     tags(post, {prefix: 'Posted in: ', suffix: '.'});
+// });
+
+// DOCS https://ghost.org/docs/content-api/javascript/
+
 
 type ArticlesProps = {
     items: any;
